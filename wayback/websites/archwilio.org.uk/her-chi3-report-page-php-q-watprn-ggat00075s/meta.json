@@ -1,0 +1,65 @@
+{
+ "url": "https://archwilio.org.uk/her/chi3/report/page.php?watprn=GGAT00075s",
+ "key": "archwilio.org.uk/her/chi3/report/page.php/_q/watprn=GGAT00075s",
+ "title": "Heneb Historic Environment Record: GGAT00075s",
+ "host": "archwilio.org.uk",
+ "path": "/websites/archwilio.org.uk/her-chi3-report-page-php-q-watprn-ggat00075s/",
+ "latest": "/websites/archwilio.org.uk/her-chi3-report-page-php-q-watprn-ggat00075s/latest.html",
+ "first_captured": "2026-10-23T11:22:19Z",
+ "last_captured": "2026-11-04T06:51:27Z",
+ "current_version": "v1.3.0",
+ "versions": [
+  {
+   "version": "v1.0.0",
+   "change": "first",
+   "captured_utc": "2026-10-23T11:22:19Z",
+   "capture_source": "internet-archive",
+   "mode": "html",
+   "text_sha256": "82e222fdf27522e823402ba4e4c17ae21f8adc6793bfb7d58125cdb2117c457c",
+   "markup_sha256": "4caf13f051ce0611c718bcf6aa7f28aceed806db5a90ab81bb8ddcef8ae5f3b2",
+   "file": "v1.0.0.html",
+   "screenshot": null,
+   "from": "https://internetarchive.bucklerfamily.estate/20261023112219/archwilio.org.uk/her/chi3/report/page.php/_q/watprn=GGAT00075s/"
+  },
+  {
+   "version": "v1.1.0",
+   "change": "text",
+   "captured_utc": "2026-10-30T06:31:30Z",
+   "capture_source": "live",
+   "mode": "text",
+   "text_sha256": "a2e596995a5d61f32d233f72cc2f37e245253dfe62b54340f875f25302f76915",
+   "markup_sha256": "74877b5d710b164ecd43ae9f9f429c0235943456e9e876499e4bc1e974c6dfda",
+   "file": "v1.1.0.html",
+   "screenshot": null,
+   "published_utc": "2026-10-30T06:42:27Z"
+  },
+  {
+   "version": "v1.2.0",
+   "change": "text",
+   "captured_utc": "2026-10-30T17:09:11Z",
+   "capture_source": "live",
+   "mode": "html",
+   "text_sha256": "d5c9e01df5415ec6e4e416c2f403498fc00207f39ad12f2d863a008489b1ec36",
+   "markup_sha256": "5f939e79dfd6cacf7fe4e50d08b7a6cebca213d249e8d798fe50d32f05457856",
+   "file": "v1.2.0.html",
+   "screenshot": null,
+   "published_utc": "2026-10-30T17:11:22Z"
+  },
+  {
+   "version": "v1.3.0",
+   "change": "text",
+   "captured_utc": "2026-11-04T06:51:27Z",
+   "capture_source": "live",
+   "mode": "html",
+   "text_sha256": "1491a486790b75dd9b8fc5aa6a829066e8792699e33320f5f36b1f7e1b2ee274",
+   "markup_sha256": "c7cdd2b8658abbdbcd33abed316d9ddc611b95d058a55d8cbe89dd2b07c3dd52",
+   "file": "v1.3.0.html",
+   "screenshot": null,
+   "published_utc": "2026-11-04T07:01:51Z"
+  }
+ ],
+ "versioning": "first capture v1.0.0; readable-text change = minor; markup/layout-only change = patch; identical capture = no new version",
+ "watch_status": "unreachable this cycle",
+ "note": "Static copy for reference: scripts, forms, iframes, external styles and images removed; links off bucklerfamily.estate disabled (archived targets point to their Wayback copy).",
+ "archive_status": "ok: captured from Tab's machine"
+}

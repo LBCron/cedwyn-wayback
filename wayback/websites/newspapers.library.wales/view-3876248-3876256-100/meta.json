@@ -1,0 +1,53 @@
+{
+ "url": "https://newspapers.library.wales/view/3876248/3876256/100/",
+ "key": "newspapers.library.wales/view/3876248/3876256/100",
+ "title": "Welsh Newspapers",
+ "host": "newspapers.library.wales",
+ "path": "/websites/newspapers.library.wales/view-3876248-3876256-100/",
+ "latest": "/websites/newspapers.library.wales/view-3876248-3876256-100/latest.html",
+ "first_captured": "2026-10-24T14:46:36Z",
+ "last_captured": "2026-11-04T07:00:20Z",
+ "current_version": "v1.0.2",
+ "versions": [
+  {
+   "version": "v1.0.0",
+   "change": "first",
+   "captured_utc": "2026-10-24T14:46:36Z",
+   "capture_source": "live",
+   "mode": "html",
+   "text_sha256": "774f973bd1eaa61a16eadd81f6b38912a62fbf0494ef9ca6d65f4ae1b8587e3c",
+   "markup_sha256": "0f70cd8538746fd7e405d1f084554ab6e787b6010811d5edd1231695da036feb",
+   "file": "v1.0.0.html",
+   "screenshot": "screenshot-v1.0.0.jpg",
+   "from": "https://internetarchive.bucklerfamily.estate/20261024144636/newspapers.library.wales/view/3876248/3876256/100/"
+  },
+  {
+   "version": "v1.0.1",
+   "change": "markup",
+   "captured_utc": "2026-10-30T06:40:20Z",
+   "capture_source": "live",
+   "mode": "html",
+   "text_sha256": "774f973bd1eaa61a16eadd81f6b38912a62fbf0494ef9ca6d65f4ae1b8587e3c",
+   "markup_sha256": "d9d8028c86e2a111449413ab8d6e137b79f69ebcb743b82ece805486508ecfa7",
+   "file": "v1.0.1.html",
+   "screenshot": "screenshot-v1.0.1.jpg",
+   "published_utc": "2026-10-30T06:44:55Z"
+  },
+  {
+   "version": "v1.0.2",
+   "change": "markup",
+   "captured_utc": "2026-11-04T07:00:20Z",
+   "capture_source": "live",
+   "mode": "html",
+   "text_sha256": "774f973bd1eaa61a16eadd81f6b38912a62fbf0494ef9ca6d65f4ae1b8587e3c",
+   "markup_sha256": "3297e64384e29aa72233e0d9de4af021befe47629f5652bcc1a9ed451a8cc9da",
+   "file": "v1.0.2.html",
+   "screenshot": "screenshot-v1.0.2.jpg",
+   "published_utc": "2026-11-04T07:05:12Z"
+  }
+ ],
+ "versioning": "first capture v1.0.0; readable-text change = minor; markup/layout-only change = patch; identical capture = no new version",
+ "watch_status": "unchanged",
+ "note": "Static copy for reference: scripts, forms, iframes, external styles and images removed; links off bucklerfamily.estate disabled (archived targets point to their Wayback copy).",
+ "archive_status": "ok: captured from Tab's machine"
+}

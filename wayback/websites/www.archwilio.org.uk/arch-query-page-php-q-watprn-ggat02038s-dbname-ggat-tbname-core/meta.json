@@ -1,0 +1,52 @@
+{
+ "url": "https://www.archwilio.org.uk/arch/query/page.php?watprn=GGAT02038s&dbname=ggat&tbname=core",
+ "key": "www.archwilio.org.uk/arch/query/page.php/_q/watprn=GGAT02038s_dbname=ggat_tbname=core",
+ "host": "www.archwilio.org.uk",
+ "path": "/websites/www.archwilio.org.uk/arch-query-page-php-q-watprn-ggat02038s-dbname-ggat-tbname-core/",
+ "latest": "/websites/www.archwilio.org.uk/arch-query-page-php-q-watprn-ggat02038s-dbname-ggat-tbname-core/latest.html",
+ "first_captured": "2026-10-30T06:31:31Z",
+ "versioning": "first capture v1.0.0; wording change = minor; markup/layout-only change (incl. capture noise: mis-decoded characters, image placeholders, one- or two-word widget lines) = patch; identical capture = no new version",
+ "note": "Static copy for reference: scripts, forms, iframes, external styles and images removed; links off bucklerfamily.estate disabled (archived targets point to their Wayback copy).",
+ "title": "Heneb Historic Environment Record: GGAT02038s",
+ "last_captured": "2026-11-04T06:51:31Z",
+ "current_version": "v1.2.0",
+ "versions": [
+  {
+   "version": "v1.0.0",
+   "change": "first",
+   "captured_utc": "2026-10-30T06:31:31Z",
+   "capture_source": "live",
+   "mode": "text",
+   "text_sha256": "2d0e20a91665d1fcadcf63b787f7de50b3aed9510dec8016286b3460a7e9ddf0",
+   "markup_sha256": "b00fa84243f630b997bfba8b44f17a34447ceed09b02af4319e2d8e9768c1c35",
+   "file": "v1.0.0.html",
+   "screenshot": null,
+   "published_utc": "2026-10-30T06:42:31Z"
+  },
+  {
+   "version": "v1.1.0",
+   "change": "text",
+   "captured_utc": "2026-10-30T17:09:12Z",
+   "capture_source": "live",
+   "mode": "html",
+   "text_sha256": "8ad3578b0fe1e9fe43a80681c2b8df262b342d8694480489a218b9043aca095a",
+   "markup_sha256": "b6f8f78e4942d2b79cb99f403808e7c5d2fd7dc9f3f3a5bd6b7372f160454f98",
+   "file": "v1.1.0.html",
+   "screenshot": null,
+   "published_utc": "2026-10-30T17:11:27Z"
+  },
+  {
+   "version": "v1.2.0",
+   "change": "text",
+   "captured_utc": "2026-11-04T06:51:31Z",
+   "capture_source": "live",
+   "mode": "html",
+   "text_sha256": "3c49ae2ab2c83895b20fd2809a96544482ee1a95fb52a88f89de75149278e84f",
+   "markup_sha256": "604f25449998c5cf3ba411a00ad8d7a2f393d9d8526ffb3643dd76ac692b77d1",
+   "file": "v1.2.0.html",
+   "screenshot": null,
+   "published_utc": "2026-11-04T07:01:58Z"
+  }
+ ],
+ "archive_status": "ok: captured from Tab's machine"
+}
