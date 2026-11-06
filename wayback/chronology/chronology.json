@@ -1,13 +1,13 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.6.0",
- "updated_utc": "2026-11-06T10:56Z",
- "count": 578,
+ "version": "1.7.0",
+ "updated_utc": "2026-11-06T12:51Z",
+ "count": 579,
  "by_category": {
   "heritage": 110,
   "press": 162,
   "history": 44,
-  "legal": 124,
+  "legal": 125,
   "social": 4,
   "title": 71,
   "correspondence": 87
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 6
+  "spill": 7
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -1953,6 +1953,20 @@
    "sort": "1968-11-19",
    "id": "CH-0145",
    "date_display": "19 Nov 1968"
+  },
+  {
+   "date": "1968-12-06",
+   "event": "Board of Trade Journal (p.1522): the Board of Trade does not intend to refer the proposed merger of Amalgamated Investment and Property Co. Ltd. and Western Ground Rents Ltd. to the Monopolies Commission (Monopolies and Mergers Act 1965).",
+   "source": "Board of Trade Journal, 6 Dec 1968, p.1522",
+   "url": "https://archive.org/details/sim_great-britain-board-of-trade-board-of-trade-journal_1968-12-06_195_3742",
+   "wayback": "",
+   "evidence": "EV-0685",
+   "origin": "spill",
+   "category": "legal",
+   "sort": "1968-12-06",
+   "id": "CH-0603",
+   "date_display": "6 Dec 1968",
+   "spill": "SP-00017"
   },
   {
    "date": "15 Feb 1969",
@@ -7278,6 +7292,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.7.0",
+   "date": "2026-11-06",
+   "change": "Added CH-0603 (6 Dec 1968): Board of Trade Journal (p.1522): the Board of Trade does not intend to refer the proposed merger of Amalgamated Investment and Property Co.  [spill SP-00017]",
+   "size": "579 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.6.0",
    "date": "2026-11-06",
