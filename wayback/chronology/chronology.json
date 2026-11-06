@@ -1,13 +1,13 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.9.0",
- "updated_utc": "2026-11-06T12:52Z",
- "count": 581,
+ "version": "1.10.0",
+ "updated_utc": "2026-11-06T16:14Z",
+ "count": 582,
  "by_category": {
   "heritage": 110,
   "press": 162,
   "history": 44,
-  "legal": 127,
+  "legal": 128,
   "social": 4,
   "title": 71,
   "correspondence": 87
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 9
+  "spill": 10
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -1208,6 +1208,20 @@
    "sort": "1938-00-00",
    "id": "CH-0087",
    "date_display": "1938–1997"
+  },
+  {
+   "date": "1938-06-30",
+   "event": "Hansard written answer: Cardiff City Council had sought no compulsory powers to buy about 80 acres at Leckwith Moors from Mountjoy, Limited (owners asking £2,000 an acre).",
+   "source": "HC Deb 30 June 1938 vol 337 cc2141-2W",
+   "url": "https://api.parliament.uk/historic-hansard/written_answers/1938/jun/30/cardiff",
+   "wayback": "",
+   "evidence": "EV-0688",
+   "origin": "spill",
+   "category": "legal",
+   "sort": "1938-06-30",
+   "id": "CH-0606",
+   "date_display": "30 Jun 1938",
+   "spill": "SP-00050"
   },
   {
    "date": "1938-12-24",
@@ -7320,6 +7334,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.10.0",
+   "date": "2026-11-06",
+   "change": "Added CH-0606 (30 Jun 1938): Hansard written answer: Cardiff City Council had sought no compulsory powers to buy about 80 acres at Leckwith Moors from Mountjoy, Limited  [spill SP-00050]",
+   "size": "582 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.9.0",
    "date": "2026-11-06",
