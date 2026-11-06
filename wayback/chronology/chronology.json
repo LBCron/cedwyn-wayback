@@ -1,13 +1,13 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.11.0",
- "updated_utc": "2026-11-06T16:15Z",
- "count": 583,
+ "version": "1.12.0",
+ "updated_utc": "2026-11-06T20:57Z",
+ "count": 584,
  "by_category": {
   "heritage": 110,
   "press": 162,
   "history": 44,
-  "legal": 128,
+  "legal": 129,
   "social": 4,
   "title": 72,
   "correspondence": 87
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 11
+  "spill": 12
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -2675,6 +2675,20 @@
    "sort": "1984-05-22",
    "id": "CH-0197",
    "date_display": "22 May 1984"
+  },
+  {
+   "date": "1984-10-12",
+   "event": "The Vale of Glamorgan Borough Council gives notice in the London Gazette that it has prepared the East Vale Local Plan, covering land at Penarth, Llandough, Leckwith and nearby places, and deposits certified copies at Barry and Penarth. The adopted 1987 version of this plan is the source of EV-0077.",
+   "source": "London Gazette issue 49895, 12 Oct 1984, p.13844",
+   "url": "https://www.thegazette.co.uk/London/issue/49895/page/13844",
+   "wayback": "",
+   "evidence": "EV-0694",
+   "origin": "spill",
+   "category": "legal",
+   "sort": "1984-10-12",
+   "id": "CH-0608",
+   "date_display": "12 Oct 1984",
+   "spill": "SP-00076"
   },
   {
    "date": "9 Dec 1985",
@@ -7348,6 +7362,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.12.0",
+   "date": "2026-11-06",
+   "change": "Added CH-0608 (12 Oct 1984): The Vale of Glamorgan Borough Council gives notice in the London Gazette that it has prepared the East Vale Local Plan, covering land at Pen [spill SP-00076]",
+   "size": "584 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.11.0",
    "date": "2026-11-06",
