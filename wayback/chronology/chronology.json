@@ -1,13 +1,13 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.8.0",
- "updated_utc": "2026-11-06T12:51Z",
- "count": 580,
+ "version": "1.9.0",
+ "updated_utc": "2026-11-06T12:52Z",
+ "count": 581,
  "by_category": {
   "heritage": 110,
   "press": 162,
   "history": 44,
-  "legal": 126,
+  "legal": 127,
   "social": 4,
   "title": 71,
   "correspondence": 87
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 8
+  "spill": 9
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -2004,6 +2004,20 @@
    "id": "CH-0604",
    "date_display": "7 Mar 1969",
    "spill": "SP-00018"
+  },
+  {
+   "date": "1969-03-27",
+   "event": "BP directors' report for 1968: the £18.7m offer for Western Ground Rents Ltd has succeeded (96% acceptances); the company, with properties in London, the Home Counties and South Wales, was acquired with the intention of transferring most of them to the BP Pension Fund “as soon as possible”.",
+   "source": "The British Petroleum Company Ltd, Annual Report 1968, directors' report 27 Mar 1969",
+   "url": "https://archive.org/details/Brit1607_1968",
+   "wayback": "",
+   "evidence": "EV-0687",
+   "origin": "spill",
+   "category": "legal",
+   "sort": "1969-03-27",
+   "id": "CH-0605",
+   "date_display": "27 Mar 1969",
+   "spill": "SP-00019"
   },
   {
    "date": "December 1969",
@@ -7306,6 +7320,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.9.0",
+   "date": "2026-11-06",
+   "change": "Added CH-0605 (27 Mar 1969): BP directors' report for 1968: the £18.7m offer for Western Ground Rents Ltd has succeeded (96% acceptances); the company, with properties i [spill SP-00019]",
+   "size": "581 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.8.0",
    "date": "2026-11-06",
