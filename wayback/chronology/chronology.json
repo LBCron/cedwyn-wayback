@@ -1,15 +1,15 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.10.0",
- "updated_utc": "2026-11-06T16:14Z",
- "count": 582,
+ "version": "1.11.0",
+ "updated_utc": "2026-11-06T16:15Z",
+ "count": 583,
  "by_category": {
   "heritage": 110,
   "press": 162,
   "history": 44,
   "legal": 128,
   "social": 4,
-  "title": 71,
+  "title": 72,
   "correspondence": 87
  },
  "by_origin": {
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 10
+  "spill": 11
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -3249,6 +3249,20 @@
    "sort": "1988-10-12",
    "id": "CH-0242",
    "date_display": "12 Oct 1988"
+  },
+  {
+   "date": "1988-10-28",
+   "event": "Intercontinental Land & Development (Cardiff) Ltd (Companies House 01938061) creates two first legal charges over several freehold properties and an assignment of a contract dated 23 Sep 1988, to Security Pacific National Bank as agent (delivered 7 Nov 1988). The register does not show whether Llandough land is included.",
+   "source": "Companies House register, 01938061, charges",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/01938061/charges?page=2",
+   "wayback": "",
+   "evidence": "EV-0690",
+   "origin": "spill",
+   "category": "title",
+   "sort": "1988-10-28",
+   "id": "CH-0607",
+   "date_display": "28 Oct 1988",
+   "spill": "SP-00054"
   },
   {
    "date": "Oct–Nov 1988",
@@ -7334,6 +7348,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.11.0",
+   "date": "2026-11-06",
+   "change": "Added CH-0607 (28 Oct 1988): Intercontinental Land & Development (Cardiff) Ltd (Companies House 01938061) creates two first legal charges over several freehold propertie [spill SP-00054]",
+   "size": "583 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.10.0",
    "date": "2026-11-06",
