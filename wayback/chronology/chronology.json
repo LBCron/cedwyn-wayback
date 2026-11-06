@@ -1,13 +1,13 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.7.0",
+ "version": "1.8.0",
  "updated_utc": "2026-11-06T12:51Z",
- "count": 579,
+ "count": 580,
  "by_category": {
   "heritage": 110,
   "press": 162,
   "history": 44,
-  "legal": 125,
+  "legal": 126,
   "social": 4,
   "title": 71,
   "correspondence": 87
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 7
+  "spill": 8
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -1990,6 +1990,20 @@
    "sort": "1969-02-15",
    "id": "CH-0147",
    "date_display": "15 Feb 1969"
+  },
+  {
+   "date": "1969-03-07",
+   "event": "Board of Trade Journal (p.668): the Board of Trade does not intend to refer the proposed merger of British Petroleum Co. Ltd. and Western Ground Rents Ltd. to the Monopolies Commission (Monopolies and Mergers Act 1965).",
+   "source": "Board of Trade Journal, 7 Mar 1969, p.668",
+   "url": "https://archive.org/details/sim_great-britain-board-of-trade-board-of-trade-journal_1969-03-07_196_3755",
+   "wayback": "",
+   "evidence": "EV-0686",
+   "origin": "spill",
+   "category": "legal",
+   "sort": "1969-03-07",
+   "id": "CH-0604",
+   "date_display": "7 Mar 1969",
+   "spill": "SP-00018"
   },
   {
    "date": "December 1969",
@@ -7292,6 +7306,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.8.0",
+   "date": "2026-11-06",
+   "change": "Added CH-0604 (7 Mar 1969): Board of Trade Journal (p.668): the Board of Trade does not intend to refer the proposed merger of British Petroleum Co. Ltd. and Western Gr [spill SP-00018]",
+   "size": "580 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.7.0",
    "date": "2026-11-06",
