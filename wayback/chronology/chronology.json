@@ -1,8 +1,8 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.29.0",
- "updated_utc": "2026-11-07T09:56Z",
- "count": 601,
+ "version": "1.30.0",
+ "updated_utc": "2026-11-07T09:57Z",
+ "count": 602,
  "by_category": {
   "heritage": 111,
   "press": 162,
@@ -10,7 +10,7 @@
   "legal": 132,
   "social": 4,
   "title": 77,
-  "correspondence": 94
+  "correspondence": 95
  },
  "by_origin": {
   "wiki-master-timeline": 183,
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 29
+  "spill": 30
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -7567,6 +7567,20 @@
    "spill": "SP-00100"
   },
   {
+   "date": "2026-11-04",
+   "event": "Amgueddfa Cymru – Museum Wales, on FOI 2026-020, checks the added names of the house, states that records would be indexed under “Llandough”, and finds no records of furniture or other moveable property from Great House Farm / Tŷ Mawr.",
+   "source": "Amgueddfa Cymru – Museum Wales FOI Team, email of 4 Nov 2026, FOI 2026-020",
+   "url": "https://cedwyn.bucklerfamily.estate/api/catalogue/EV-0723",
+   "wayback": "",
+   "evidence": "EV-0723",
+   "origin": "spill",
+   "category": "correspondence",
+   "sort": "2026-11-04",
+   "id": "CH-0626",
+   "date_display": "4 Nov 2026",
+   "spill": "SP-00099"
+  },
+  {
    "date": "2026-11-06",
    "event": "Ministry of Justice / HMCTS: review decision date (one calendar month for the controller to answer the complaint (our timetable; SAR has no statutory review); answered 2026-10-09)",
    "source": "Disclosure Dartboard roadmap · EV-0506",
@@ -7600,6 +7614,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.30.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0626 (4 Nov 2026): Amgueddfa Cymru – Museum Wales, on FOI 2026-020, checks the added names of the house, states that records would be indexed under “Llandough” [spill SP-00099]",
+   "size": "602 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.29.0",
    "date": "2026-11-07",
