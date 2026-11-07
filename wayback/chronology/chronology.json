@@ -1,12 +1,12 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.15.0",
- "updated_utc": "2026-11-07T00:44Z",
- "count": 587,
+ "version": "1.16.0",
+ "updated_utc": "2026-11-07T00:45Z",
+ "count": 588,
  "by_category": {
   "heritage": 110,
   "press": 162,
-  "history": 44,
+  "history": 45,
   "legal": 131,
   "social": 4,
   "title": 73,
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 15
+  "spill": 16
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -69,6 +69,20 @@
    "sort": "1106-00-00",
    "id": "CH-0002",
    "date_display": "1106"
+  },
+  {
+   "date": "1200",
+   "event": "Charters printed by G. T. Clark (Cartae, vol. I, pp.181–184, from BL Additional Charters 24.287–24.290) record persons surnamed de Landoch dealing in property in Landoch. CXCIX grants a messuage on the south side of the church of St Doguin, next to the cemetery, held of the abbot and convent of Tewkesbury at 4d a year. The charters name no house; their dating is not checked.",
+   "source": "G. T. Clark (ed.), Cartae et alia munimenta, vol. I (Dowlais, 1885), pp.181–184, Internet Archive copy",
+   "url": "https://archive.org/details/cartetaliamunim00abbegoog/page/n207/mode/1up",
+   "wayback": "",
+   "evidence": "EV-0705",
+   "origin": "spill",
+   "category": "history",
+   "sort": "1200-00-00",
+   "id": "CH-0612",
+   "date_display": "13th century",
+   "spill": "SP-00047"
   },
   {
    "date": "1667",
@@ -7404,6 +7418,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.16.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0612 (13th century): Charters printed by G. T. Clark (Cartae, vol. I, pp.181–184, from BL Additional Charters 24.287–24.290) record persons surnamed de Landoch d [spill SP-00047]",
+   "size": "588 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.15.0",
    "date": "2026-11-07",
