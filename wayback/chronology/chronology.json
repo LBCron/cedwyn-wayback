@@ -1,15 +1,15 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.20.0",
+ "version": "1.21.0",
  "updated_utc": "2026-11-07T03:46Z",
- "count": 592,
+ "count": 593,
  "by_category": {
   "heritage": 111,
   "press": 162,
   "history": 45,
   "legal": 131,
   "social": 4,
-  "title": 75,
+  "title": 76,
   "correspondence": 88
  },
  "by_origin": {
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 20
+  "spill": 21
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -5319,6 +5319,20 @@
    "date_display": "Mar 2023"
   },
   {
+   "date": "2024-05-08",
+   "event": "Llandough Community Council's annual meeting reviews its asset register: Village Green No. 41 (VG41) is documented by a Commons Commissioners letter in the Clerk's file, while the extended village-green parcel is held by title deeds with the council's solicitors.",
+   "source": "Llandough Community Council, Annual Meeting minutes 8 May 2024, item 8",
+   "url": "http://web.archive.org/web/20250805044738/https://www.llandough-cc.co.uk/_UserFiles/Files/_Minutes/182482-AnnMin2024.pdf",
+   "wayback": "",
+   "evidence": "EV-0711",
+   "origin": "spill",
+   "category": "title",
+   "sort": "2024-05-08",
+   "id": "CH-0617",
+   "date_display": "8 May 2024",
+   "spill": "SP-00091"
+  },
+  {
    "date": "2025–26",
    "event": "Records requests to public bodies (Records Access Chronology)",
    "source": "Legal Wiki, Master Timeline",
@@ -7474,6 +7488,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.21.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0617 (8 May 2024): Llandough Community Council's annual meeting reviews its asset register: Village Green No. 41 (VG41) is documented by a Commons Commissioner [spill SP-00091]",
+   "size": "593 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.20.0",
    "date": "2026-11-07",
