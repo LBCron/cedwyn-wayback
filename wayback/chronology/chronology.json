@@ -1,15 +1,15 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.13.0",
- "updated_utc": "2026-11-06T21:04Z",
- "count": 585,
+ "version": "1.14.0",
+ "updated_utc": "2026-11-07T00:44Z",
+ "count": 586,
  "by_category": {
   "heritage": 110,
   "press": 162,
   "history": 44,
   "legal": 130,
   "social": 4,
-  "title": 72,
+  "title": 73,
   "correspondence": 87
  },
  "by_origin": {
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 13
+  "spill": 14
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -2341,6 +2341,20 @@
    ],
    "id": "CH-0171",
    "date_display": "1 Dec 1975"
+  },
+  {
+   "date": "1977-05-23",
+   "event": "The London Gazette carries a weekly H.M. Land Registry notice, “The following land is about to be registered. Any objections should be addressed to H.M. Land Registry …” (objections before 24 May 1977). This is the latest instance of the weekly series found in Gazette searches to 1990; no Llandough land appears in it. The 1982 and 1983 first registrations at Llandough have no Gazette notice in the record held.",
+   "source": "London Gazette issue 47219, 23 May 1977, p.6383",
+   "url": "https://www.thegazette.co.uk/London/issue/47219/page/6383",
+   "wayback": "",
+   "evidence": "EV-0703",
+   "origin": "spill",
+   "category": "title",
+   "sort": "1977-05-23",
+   "id": "CH-0610",
+   "date_display": "23 May 1977",
+   "spill": "SP-00014"
   },
   {
    "date": "1978–79",
@@ -7376,6 +7390,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.14.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0610 (23 May 1977): The London Gazette carries a weekly H.M. Land Registry notice, “The following land is about to be registered. Any objections should be addre [spill SP-00014]",
+   "size": "586 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.13.0",
    "date": "2026-11-06",
