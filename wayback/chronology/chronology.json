@@ -1,12 +1,12 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.41.0",
- "updated_utc": "2026-11-07T17:32Z",
- "count": 617,
+ "version": "1.42.0",
+ "updated_utc": "2026-11-07T17:33Z",
+ "count": 618,
  "by_category": {
   "heritage": 114,
   "press": 165,
-  "history": 49,
+  "history": 50,
   "legal": 134,
   "social": 4,
   "title": 80,
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 45
+  "spill": 46
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -1447,6 +1447,20 @@
    "sort": "1940-00-00",
    "id": "CH-0095",
    "date_display": "c. 1940"
+  },
+  {
+   "date": "1941",
+   "event": "A weir on the River Ely \"just above Leckwith Bridge\" is demolished in 1941, as written in Alan Thorne's Place names of Penarth (1997, p. 107), which also places the medieval Niwere (New Weir) in the manor of Cogan (EV-0741). Who held the fishery and who removed the weir are not stated; the 1940–41 river and parish records are not checked.",
+   "source": "Alan Thorne, Place names of Penarth (1997), p. 107 (archive.org lending copy, read 7 Nov 2026)",
+   "url": "https://archive.org/details/placenamesofpena0000thor",
+   "wayback": "",
+   "evidence": "EV-0741",
+   "origin": "spill",
+   "category": "history",
+   "sort": "1941",
+   "id": "CH-0642",
+   "date_display": "1941",
+   "spill": "GH-cedwyn-research-48"
   },
   {
    "date": "1941–43",
@@ -7824,6 +7838,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.42.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0642 (1941): A weir on the River Ely \"just above Leckwith Bridge\" is demolished in 1941, as written in Alan Thorne's Place names of Penarth (1997, p. 107 [spill GH-cedwyn-research-48]",
+   "size": "618 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.41.0",
    "date": "2026-11-07",
