@@ -1,15 +1,15 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.53.0",
- "updated_utc": "2026-11-07T21:56Z",
- "count": 656,
+ "version": "1.54.0",
+ "updated_utc": "2026-11-07T21:57Z",
+ "count": 657,
  "by_category": {
   "heritage": 123,
   "press": 165,
   "history": 64,
   "legal": 134,
   "social": 5,
-  "title": 93,
+  "title": 94,
   "correspondence": 96
  },
  "by_origin": {
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 84
+  "spill": 85
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -302,6 +302,20 @@
    "sort": "1800-00-00",
    "id": "CH-0006",
    "date_display": "1800"
+  },
+  {
+   "date": "1800-10-15",
+   "event": "Draft mortgage: Herbert Hurst of Gabalva, with the consent of Calvert Richard Jones, charges his moiety of messuages and lands in Llandough-juxta-Penarth and others, and a 'Moiety of Manors of Dinas Powys, Llandough, Cogan, HIghlight and Kibbor', to secure an annuity to William Vaughan. A Hurst half still held after 1793; a draft, execution not shown; Tŷ Mawr not named.",
+   "source": "Glamorgan Archives DART/W/81, draft mortgage (Canfod catalogue entry read 7 Nov 2026; document not seen)",
+   "url": "https://canfod.glamarchives.gov.uk/records/DART/W/70-92/79-84/81",
+   "wayback": "",
+   "evidence": "EV-0860",
+   "origin": "spill",
+   "category": "title",
+   "sort": "1800-10-15",
+   "id": "CH-0681",
+   "date_display": "15 Oct 1800",
+   "spill": "idle-watch cedwyn-research#17 (1800 draft)"
   },
   {
    "date": "1813-09-11",
@@ -8370,6 +8384,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.54.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0681 (15 Oct 1800): Draft mortgage: Herbert Hurst of Gabalva, with the consent of Calvert Richard Jones, charges his moiety of messuages and lands in Llandough- [spill idle-watch cedwyn-research#17 (1800 draft)]",
+   "size": "657 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.53.0",
    "date": "2026-11-07",
