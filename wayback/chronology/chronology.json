@@ -1,8 +1,8 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.19.0",
- "updated_utc": "2026-11-07T00:46Z",
- "count": 591,
+ "version": "1.20.0",
+ "updated_utc": "2026-11-07T03:46Z",
+ "count": 592,
  "by_category": {
   "heritage": 111,
   "press": 162,
@@ -10,7 +10,7 @@
   "legal": 131,
   "social": 4,
   "title": 75,
-  "correspondence": 87
+  "correspondence": 88
  },
  "by_origin": {
   "wiki-master-timeline": 183,
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 19
+  "spill": 20
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -7413,6 +7413,20 @@
    "date_display": "26 Oct 2026"
   },
   {
+   "date": "2026-11-03",
+   "event": "Companies House Archive Searches replies that the records of Western Ground Rents Limited (00342092), the 1938 purchaser in the Tŷ Mawr (Great House) title chain, were not sent to the National Archives and that the paper records and microfiche were destroyed. The National Archives catalogue lists the company's files BT 31/87651 and BT 31/84793 as open at Kew (EV-0700, EV-0701).",
+   "source": "Companies House Archive Searches, email of 3 Nov 2026; TNA Discovery C18015071, C18012213",
+   "url": "https://discovery.nationalarchives.gov.uk/details/r/C18015071",
+   "wayback": "",
+   "evidence": "EV-0710",
+   "origin": "spill",
+   "category": "correspondence",
+   "sort": "2026-11-03",
+   "id": "CH-0616",
+   "date_display": "3 Nov 2026",
+   "spill": "SP-00083"
+  },
+  {
    "date": "2026-11-04",
    "event": "HM Land Registry (ref Z084NQV, title WA231076) replies that the statement asked about is contained in the first-registration application (Form 1E), that no application for alteration or indemnity may be considered (its letters of 23 Mar, 19 Apr and 25 May 2026), and that the appropriate forum for any further action is the Court (HM Land Registry's position). No date is given for any notice to the occupier.",
    "source": "HM Land Registry letter, 4 Nov 2026, ref Z084NQV (catalogue EV-0684)",
@@ -7460,6 +7474,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.20.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0616 (3 Nov 2026): Companies House Archive Searches replies that the records of Western Ground Rents Limited (00342092), the 1938 purchaser in the Tŷ Mawr (Gre [spill SP-00083]",
+   "size": "592 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.19.0",
    "date": "2026-11-07",
