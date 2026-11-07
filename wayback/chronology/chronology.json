@@ -1,15 +1,15 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.52.0",
- "updated_utc": "2026-11-07T21:52Z",
- "count": 655,
+ "version": "1.53.0",
+ "updated_utc": "2026-11-07T21:56Z",
+ "count": 656,
  "by_category": {
   "heritage": 123,
   "press": 165,
   "history": 64,
   "legal": 134,
   "social": 5,
-  "title": 92,
+  "title": 93,
   "correspondence": 96
  },
  "by_origin": {
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 83
+  "spill": 84
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -276,6 +276,20 @@
    "id": "CH-0662",
    "date_display": "1793",
    "spill": "GH-cedwyn-research-9"
+  },
+  {
+   "date": "1793-01-11",
+   "event": "Calvert Richard Jones releases to the Earl of Bute the manors of Llandough, Cogan, Kibbor and Cardiff (otherwise Whitefriars) and land in the parishes of Llandough-juxta-Penarth and others, 'as in schedule' (Glamorgan Archives catalogue of a later copy). The catalogued schedule names upland farms; no Llandough farm and not Tŷ Mawr (Great House). Shows land, not only manorial rights, in the 1793 purchase; counts against the family case.",
+   "source": "Glamorgan Archives DSA/107/34/11, item 82, copy release (Canfod catalogue entry read 7 Nov 2026; document not seen)",
+   "url": "https://canfod.glamarchives.gov.uk/records/DSA/70-121/107/34/11",
+   "wayback": "",
+   "evidence": "EV-0859",
+   "origin": "spill",
+   "category": "title",
+   "sort": "1793-01-11",
+   "id": "CH-0680",
+   "date_display": "11 Jan 1793",
+   "spill": "idle-watch cedwyn-research#17"
   },
   {
    "date": "1800",
@@ -8356,6 +8370,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.53.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0680 (11 Jan 1793): Calvert Richard Jones releases to the Earl of Bute the manors of Llandough, Cogan, Kibbor and Cardiff (otherwise Whitefriars) and land in th [spill idle-watch cedwyn-research#17]",
+   "size": "656 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.52.0",
    "date": "2026-11-07",
