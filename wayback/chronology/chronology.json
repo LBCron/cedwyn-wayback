@@ -1,13 +1,13 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.14.0",
+ "version": "1.15.0",
  "updated_utc": "2026-11-07T00:44Z",
- "count": 586,
+ "count": 587,
  "by_category": {
   "heritage": 110,
   "press": 162,
   "history": 44,
-  "legal": 130,
+  "legal": 131,
   "social": 4,
   "title": 73,
   "correspondence": 87
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 14
+  "spill": 15
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -4848,6 +4848,20 @@
    "date_display": "2004"
   },
   {
+   "date": "2004-11-29",
+   "event": "The National Assembly for Wales (Transfer of Records) Order 2004 (SI 2004/3137) is made; from 1 January 2005 it vests in the Assembly the records to which the Secretary of State for Wales was then entitled, with a right of access kept for the Secretary of State. Until then such records, including pre-1999 Welsh Office papers, stayed with the Secretary of State. Bears on where the 1988 Welsh Office / Cadw papers on the demolition of Tŷ Mawr sat between 1999 and 2004.",
+   "source": "SI 2004/3137, arts 2(1)–(3), legislation.gov.uk (as made)",
+   "url": "https://www.legislation.gov.uk/uksi/2004/3137/made",
+   "wayback": "",
+   "evidence": "EV-0704",
+   "origin": "spill",
+   "category": "legal",
+   "sort": "2004-11-29",
+   "id": "CH-0611",
+   "date_display": "29 Nov 2004",
+   "spill": "SP-00021"
+  },
+  {
    "date": "2005",
    "event": "Excavation published (814 articulated burials) (archaeology)",
    "source": "Legal Wiki, Master Timeline",
@@ -7390,6 +7404,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.15.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0611 (29 Nov 2004): The National Assembly for Wales (Transfer of Records) Order 2004 (SI 2004/3137) is made; from 1 January 2005 it vests in the Assembly the re [spill SP-00021]",
+   "size": "587 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.14.0",
    "date": "2026-11-07",
