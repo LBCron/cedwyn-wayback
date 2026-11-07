@@ -1,10 +1,10 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.35.0",
+ "version": "1.36.0",
  "updated_utc": "2026-11-07T15:49Z",
- "count": 607,
+ "count": 608,
  "by_category": {
-  "heritage": 111,
+  "heritage": 112,
   "press": 165,
   "history": 46,
   "legal": 132,
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 35
+  "spill": 36
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -2971,6 +2971,20 @@
    "id": "CH-0609",
    "date_display": "9 Feb 1987",
    "spill": "SP-00077"
+  },
+  {
+   "date": "1987-02-19",
+   "event": "Ropemaker Properties Ltd applies (1987/00157/OUT) for outline residential development, with replacement allotment and community-garden sites, on land rear of Penlan Road and Lewis Road, Llandough; approved under delegated powers on 28 Apr 1987, during the appeal in BP Properties Ltd v Buckler.",
+   "source": "Vale of Glamorgan Council planning register, application 1987/00157/OUT",
+   "url": "https://vogonline.planning-register.co.uk/Planning/Display/1987/00157/OUT",
+   "wayback": "",
+   "evidence": "EV-0729",
+   "origin": "spill",
+   "category": "heritage",
+   "sort": "1987-02-19",
+   "id": "CH-0632",
+   "date_display": "19 Feb 1987",
+   "spill": "SP-00086"
   },
   {
    "date": "6 May 1987",
@@ -7684,6 +7698,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.36.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0632 (19 Feb 1987): Ropemaker Properties Ltd applies (1987/00157/OUT) for outline residential development, with replacement allotment and community-garden sites [spill SP-00086]",
+   "size": "608 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.35.0",
    "date": "2026-11-07",
