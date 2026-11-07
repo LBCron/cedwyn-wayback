@@ -1,12 +1,12 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.42.0",
- "updated_utc": "2026-11-07T17:33Z",
- "count": 618,
+ "version": "1.43.0",
+ "updated_utc": "2026-11-07T18:00Z",
+ "count": 619,
  "by_category": {
   "heritage": 114,
   "press": 165,
-  "history": 50,
+  "history": 51,
   "legal": 134,
   "social": 4,
   "title": 80,
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 46
+  "spill": 47
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -293,6 +293,20 @@
    "sort": "1855-00-00",
    "id": "CH-0013",
    "date_display": "1855"
+  },
+  {
+   "date": "1857-07-27",
+   "event": "The Penarth Harbour Dock and Railway Act is passed on 27 July 1857 and work on the dock begins in 1859; the Lower Marsh and the Cogan Pill area are \"lost when work started on the Dock excavations in 1859\", as written in Alan Thorne's Place names of Penarth (1997) (EV-0819). Penarth side of the Ely; the Act's deposited plans and book of reference are not checked.",
+   "source": "Alan Thorne, Place names of Penarth (1997) (archive.org lending copy, read 7 Nov 2026)",
+   "url": "https://archive.org/details/placenamesofpena0000thor",
+   "wayback": "",
+   "evidence": "EV-0819",
+   "origin": "spill",
+   "category": "history",
+   "sort": "1857-07-27",
+   "id": "CH-0643",
+   "date_display": "27 July 1857 (Act); excavation from 1859",
+   "spill": "GH-cedwyn-research-49"
   },
   {
    "date": "23 Dec 1864",
@@ -7838,6 +7852,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.43.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0643 (27 July 1857 (Act); excavation from 1859): The Penarth Harbour Dock and Railway Act is passed on 27 July 1857 and work on the dock begins in 1859; the Lower Marsh and the Cogan Pill a [spill GH-cedwyn-research-49]",
+   "size": "619 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.42.0",
    "date": "2026-11-07",
