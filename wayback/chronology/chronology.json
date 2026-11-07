@@ -1,8 +1,8 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.37.0",
- "updated_utc": "2026-11-07T15:50Z",
- "count": 609,
+ "version": "1.38.0",
+ "updated_utc": "2026-11-07T16:31Z",
+ "count": 610,
  "by_category": {
   "heritage": 113,
   "press": 165,
@@ -10,7 +10,8 @@
   "legal": 132,
   "social": 4,
   "title": 78,
-  "correspondence": 95
+  "correspondence": 95,
+  "archaeology": 1
  },
  "by_origin": {
   "wiki-master-timeline": 183,
@@ -19,7 +20,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 37
+  "spill": 38
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -5162,6 +5163,20 @@
    "date_display": "2 May 2007"
   },
   {
+   "date": "2011",
+   "event": "Glamorgan-Gwent Archaeological Trust field visit to the site of the former church of St Dochdwy, Llandough (GGAT 110 Abandoned Medieval Churches in Glamorgan and Gwent project): the visit confirmed that little now survives of the former church site (HER event 2096235). The old church stood on a terrace south of the present 1866 church (HER 1975891, EV-0733).",
+   "source": "Glamorgan-Gwent Archaeological Trust HER event 2096235, public copy in the Archaeology Data Service catalogue (read 7 Nov 2026)",
+   "url": "https://archaeologydataservice.ac.uk/data-catalogue/resource/00cf5f0846b762f81523769d49ed8bcab5b00c9519b921579a45b3265a53712e",
+   "wayback": "",
+   "evidence": "EV-0733",
+   "origin": "spill",
+   "category": "archaeology",
+   "sort": "2011",
+   "id": "CH-0634",
+   "date_display": "2011",
+   "spill": "GH-cedwyn-research-46"
+  },
+  {
    "date": "2011-10-12",
    "event": "HK Land Law blog: “Unilateral licence can stop time running for adverse possession” — Hong Kong land-law blog post discussing the case.",
    "source": "Media register MR-0100",
@@ -7712,6 +7727,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.38.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0634 (2011): Glamorgan-Gwent Archaeological Trust field visit to the site of the former church of St Dochdwy, Llandough (GGAT 110 Abandoned Medieval Chur [spill GH-cedwyn-research-46]",
+   "size": "610 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.37.0",
    "date": "2026-11-07",
