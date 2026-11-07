@@ -1,15 +1,15 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.21.0",
- "updated_utc": "2026-11-07T03:46Z",
- "count": 593,
+ "version": "1.22.0",
+ "updated_utc": "2026-11-07T03:47Z",
+ "count": 594,
  "by_category": {
   "heritage": 111,
   "press": 162,
   "history": 45,
   "legal": 131,
   "social": 4,
-  "title": 76,
+  "title": 77,
   "correspondence": 88
  },
  "by_origin": {
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 21
+  "spill": 22
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -2809,6 +2809,20 @@
    "sort": "1986-07-25",
    "id": "CH-0201",
    "date_display": "25 Jul 1986"
+  },
+  {
+   "date": "1986-09-22",
+   "event": "Cardiff Industrial Estates Limited (Companies House 00759094, incorporated 29 April 1963) changes its name to Ropemaker Properties Limited, the company later named in the 1988 Estates Gazette report on BP's Welsh property sales (EV-0093).",
+   "source": "Companies House, company 00759094, previous company names",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/00759094",
+   "wayback": "",
+   "evidence": "EV-0714",
+   "origin": "spill",
+   "category": "title",
+   "sort": "1986-09-22",
+   "id": "CH-0618",
+   "date_display": "22 Sep 1986",
+   "spill": "SP-00085"
   },
   {
    "date": "1987",
@@ -7488,6 +7502,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.22.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0618 (22 Sep 1986): Cardiff Industrial Estates Limited (Companies House 00759094, incorporated 29 April 1963) changes its name to Ropemaker Properties Limited,  [spill SP-00085]",
+   "size": "594 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.21.0",
    "date": "2026-11-07",
