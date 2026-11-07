@@ -1,8 +1,8 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.28.0",
+ "version": "1.29.0",
  "updated_utc": "2026-11-07T09:56Z",
- "count": 600,
+ "count": 601,
  "by_category": {
   "heritage": 111,
   "press": 162,
@@ -10,7 +10,7 @@
   "legal": 132,
   "social": 4,
   "title": 77,
-  "correspondence": 93
+  "correspondence": 94
  },
  "by_origin": {
   "wiki-master-timeline": 183,
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 28
+  "spill": 29
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -7525,6 +7525,20 @@
    "spill": "SP-00094"
   },
   {
+   "date": "2026-11-03",
+   "event": "Companies House Archive Searches states that the records of Mountjoy Limited (00179977; dissolved 31 Jan 2001), the Bute company that sold to Western Ground Rents in 1938, were not sent to the National Archives and that its paper records and microfiche were destroyed.",
+   "source": "Companies House Archive Searches, email of 3 Nov 2026 (our ref: Mountjoy Limited)",
+   "url": "https://cedwyn.bucklerfamily.estate/api/catalogue/EV-0722",
+   "wayback": "",
+   "evidence": "EV-0722",
+   "origin": "spill",
+   "category": "correspondence",
+   "sort": "2026-11-03",
+   "id": "CH-0625",
+   "date_display": "3 Nov 2026",
+   "spill": "SP-00105"
+  },
+  {
    "date": "2026-11-04",
    "event": "HM Land Registry (ref Z084NQV, title WA231076) replies that the statement asked about is contained in the first-registration application (Form 1E), that no application for alteration or indemnity may be considered (its letters of 23 Mar, 19 Apr and 25 May 2026), and that the appropriate forum for any further action is the Court (HM Land Registry's position). No date is given for any notice to the occupier.",
    "source": "HM Land Registry letter, 4 Nov 2026, ref Z084NQV (catalogue EV-0684)",
@@ -7586,6 +7600,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.29.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0625 (3 Nov 2026): Companies House Archive Searches states that the records of Mountjoy Limited (00179977; dissolved 31 Jan 2001), the Bute company that sold t [spill SP-00105]",
+   "size": "601 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.28.0",
    "date": "2026-11-07",
