@@ -1,8 +1,8 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.27.0",
- "updated_utc": "2026-11-07T09:55Z",
- "count": 599,
+ "version": "1.28.0",
+ "updated_utc": "2026-11-07T09:56Z",
+ "count": 600,
  "by_category": {
   "heritage": 111,
   "press": 162,
@@ -10,7 +10,7 @@
   "legal": 132,
   "social": 4,
   "title": 77,
-  "correspondence": 92
+  "correspondence": 93
  },
  "by_origin": {
   "wiki-master-timeline": 183,
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 27
+  "spill": 28
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -7511,6 +7511,20 @@
    "spill": "SP-00083"
   },
   {
+   "date": "2026-11-03",
+   "event": "A complaint under section 50 of the Freedom of Information Act 2000 goes to the Information Commissioner’s Office about Amgueddfa Cymru – Museum Wales’s handling of FOI 2026-024 (a discovery at Tŷ Mawr (Great House)), within six weeks of the 22 Sep 2026 review; it asks for the searches to be re-run under every name of the house and the Museum’s own “Church Farm” and “Llandough Farm” terms.",
+   "source": "Email to the Information Commissioner’s Office, 3 Nov 2026 14:12 UTC",
+   "url": "https://cedwyn.bucklerfamily.estate/api/catalogue/EV-0721",
+   "wayback": "",
+   "evidence": "EV-0721",
+   "origin": "spill",
+   "category": "correspondence",
+   "sort": "2026-11-03",
+   "id": "CH-0624",
+   "date_display": "3 Nov 2026",
+   "spill": "SP-00094"
+  },
+  {
    "date": "2026-11-04",
    "event": "HM Land Registry (ref Z084NQV, title WA231076) replies that the statement asked about is contained in the first-registration application (Form 1E), that no application for alteration or indemnity may be considered (its letters of 23 Mar, 19 Apr and 25 May 2026), and that the appropriate forum for any further action is the Court (HM Land Registry's position). No date is given for any notice to the occupier.",
    "source": "HM Land Registry letter, 4 Nov 2026, ref Z084NQV (catalogue EV-0684)",
@@ -7572,6 +7586,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.28.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0624 (3 Nov 2026): A complaint under section 50 of the Freedom of Information Act 2000 goes to the Information Commissioner’s Office about Amgueddfa Cymru – Mu [spill SP-00094]",
+   "size": "600 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.27.0",
    "date": "2026-11-07",
