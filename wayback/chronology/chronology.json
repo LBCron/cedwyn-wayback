@@ -1,8 +1,8 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.25.0",
+ "version": "1.26.0",
  "updated_utc": "2026-11-07T09:55Z",
- "count": 597,
+ "count": 598,
  "by_category": {
   "heritage": 111,
   "press": 162,
@@ -10,7 +10,7 @@
   "legal": 132,
   "social": 4,
   "title": 77,
-  "correspondence": 90
+  "correspondence": 91
  },
  "by_origin": {
   "wiki-master-timeline": 183,
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 25
+  "spill": 26
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -7511,6 +7511,20 @@
    "spill": "SP-00112"
   },
   {
+   "date": "2026-11-04",
+   "event": "The National Library of Wales answers FOI/2026/16 (the 1610 Herbert survey S7 and Bute X.6(12) on microfilm) by treating the information as reasonably accessible under section 21 (Reading Room, researchers, copying); it does not say whether S7 has a Llandough-juxta-Penarth entry.",
+   "source": "National Library of Wales, response to FOI/2026/16 dated 4 Nov 2026 (sent 5 Nov)",
+   "url": "https://cedwyn.bucklerfamily.estate/api/catalogue/EV-0719",
+   "wayback": "",
+   "evidence": "EV-0719",
+   "origin": "spill",
+   "category": "correspondence",
+   "sort": "2026-11-04",
+   "id": "CH-0622",
+   "date_display": "4 Nov 2026",
+   "spill": "SP-00100"
+  },
+  {
    "date": "2026-11-06",
    "event": "Ministry of Justice / HMCTS: review decision date (one calendar month for the controller to answer the complaint (our timetable; SAR has no statutory review); answered 2026-10-09)",
    "source": "Disclosure Dartboard roadmap · EV-0506",
@@ -7544,6 +7558,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.26.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0622 (4 Nov 2026): The National Library of Wales answers FOI/2026/16 (the 1610 Herbert survey S7 and Bute X.6(12) on microfilm) by treating the information as  [spill SP-00100]",
+   "size": "598 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.25.0",
    "date": "2026-11-07",
