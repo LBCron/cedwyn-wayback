@@ -1,13 +1,13 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.23.0",
- "updated_utc": "2026-11-07T03:49Z",
- "count": 595,
+ "version": "1.24.0",
+ "updated_utc": "2026-11-07T06:42Z",
+ "count": 596,
  "by_category": {
   "heritage": 111,
   "press": 162,
   "history": 45,
-  "legal": 131,
+  "legal": 132,
   "social": 4,
   "title": 77,
   "correspondence": 89
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 23
+  "spill": 24
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -1671,6 +1671,20 @@
    "sort": "1958-10-31",
    "id": "CH-0118",
    "date_display": "31 October 1958"
+  },
+  {
+   "date": "1958-11-11",
+   "event": "House of Commons Journal: Mr. Brooke presents the City of Cardiff (Leckwith Common) Compulsory Purchase Order, 1957 (dated 8 Sep 1958), with a certificate by the Minister of Housing and Local Government under section 2 of the Statutory Orders (Special Procedure) Act, 1945; “Ordered, That the said Paper do lie upon the Table.” The volume names no owners or plots and does not mention Llandough or Great House. The no-petition report on the order follows on 25 Nov 1958 (EV-0038).",
+   "source": "House of Commons Journal vol. 214 (1958-59), 11 Nov 1958, printed p.22; index p.328",
+   "url": "https://web.archive.org/web/20220603125827/https://assets.parliament.uk/Journals/HCJ_volume_214.pdf",
+   "wayback": "",
+   "evidence": "EV-0717",
+   "origin": "spill",
+   "category": "legal",
+   "sort": "1958-11-11",
+   "id": "CH-0620",
+   "date_display": "11 Nov 1958",
+   "spill": "SP-00048"
   },
   {
    "date": "20 Nov 1958",
@@ -7516,6 +7530,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.24.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0620 (11 Nov 1958): House of Commons Journal: Mr. Brooke presents the City of Cardiff (Leckwith Common) Compulsory Purchase Order, 1957 (dated 8 Sep 1958), with [spill SP-00048]",
+   "size": "596 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.23.0",
    "date": "2026-11-07",
