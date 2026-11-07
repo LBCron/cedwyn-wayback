@@ -1,8 +1,8 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.24.0",
- "updated_utc": "2026-11-07T06:42Z",
- "count": 596,
+ "version": "1.25.0",
+ "updated_utc": "2026-11-07T09:55Z",
+ "count": 597,
  "by_category": {
   "heritage": 111,
   "press": 162,
@@ -10,7 +10,7 @@
   "legal": 132,
   "social": 4,
   "title": 77,
-  "correspondence": 89
+  "correspondence": 90
  },
  "by_origin": {
   "wiki-master-timeline": 183,
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 24
+  "spill": 25
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -7469,6 +7469,20 @@
    "date_display": "26 Oct 2026"
   },
   {
+   "date": "2026-11-02",
+   "event": "The SPAB Archive replies that a search of its online catalogue under all the names given finds no file and no photographs on Great House Farm (Tŷ Mawr), Llandough; whether its paper indexes were searched is not stated.",
+   "source": "SPAB Archive Officer, email of 2 Nov 2026 16:19 UTC",
+   "url": "https://cedwyn.bucklerfamily.estate/api/catalogue/EV-0718",
+   "wayback": "",
+   "evidence": "EV-0718",
+   "origin": "spill",
+   "category": "correspondence",
+   "sort": "2026-11-02",
+   "id": "CH-0621",
+   "date_display": "2 Nov 2026",
+   "spill": "SP-00096"
+  },
+  {
    "date": "2026-11-03",
    "event": "Companies House Archive Searches replies that the records of Western Ground Rents Limited (00342092), the 1938 purchaser in the Tŷ Mawr (Great House) title chain, were not sent to the National Archives and that the paper records and microfiche were destroyed. The National Archives catalogue lists the company's files BT 31/87651 and BT 31/84793 as open at Kew (EV-0700, EV-0701).",
    "source": "Companies House Archive Searches, email of 3 Nov 2026; TNA Discovery C18015071, C18012213",
@@ -7530,6 +7544,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.25.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0621 (2 Nov 2026): The SPAB Archive replies that a search of its online catalogue under all the names given finds no file and no photographs on Great House Far [spill SP-00096]",
+   "size": "597 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.24.0",
    "date": "2026-11-07",
