@@ -1,12 +1,12 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.40.0",
- "updated_utc": "2026-11-07T16:41Z",
- "count": 616,
+ "version": "1.41.0",
+ "updated_utc": "2026-11-07T17:32Z",
+ "count": 617,
  "by_category": {
   "heritage": 114,
   "press": 165,
-  "history": 48,
+  "history": 49,
   "legal": 134,
   "social": 4,
   "title": 80,
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 44
+  "spill": 45
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -602,6 +602,20 @@
    "sort": "1889-08-16",
    "id": "CH-0035",
    "date_display": "16 Aug 1889"
+  },
+  {
+   "date": "1890s",
+   "event": "Andrew Road is cut into the western escarpment of the Cogan glacial bowl in the 1890s, \"the intention being to shorten the route from Cogan to Llandough\", as written in Alan Thorne's Place names of Penarth (1997, p. 11) (EV-0740). The book gives no primary source; the Penarth highway records are not checked, and its \"owner of the parishes\" wording is the book's.",
+   "source": "Alan Thorne, Place names of Penarth (1997), p. 11 (archive.org lending copy, read 7 Nov 2026)",
+   "url": "https://archive.org/details/placenamesofpena0000thor",
+   "wayback": "",
+   "evidence": "EV-0740",
+   "origin": "spill",
+   "category": "history",
+   "sort": "1890",
+   "id": "CH-0641",
+   "date_display": "1890s",
+   "spill": "GH-cedwyn-research-47"
   },
   {
    "date": "c.1890",
@@ -7810,6 +7824,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.41.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0641 (1890s): Andrew Road is cut into the western escarpment of the Cogan glacial bowl in the 1890s, \"the intention being to shorten the route from Cogan  [spill GH-cedwyn-research-47]",
+   "size": "617 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.40.0",
    "date": "2026-11-07",
