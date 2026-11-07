@@ -1,11 +1,11 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.30.0",
- "updated_utc": "2026-11-07T09:57Z",
- "count": 602,
+ "version": "1.31.0",
+ "updated_utc": "2026-11-07T12:40Z",
+ "count": 603,
  "by_category": {
   "heritage": 111,
-  "press": 162,
+  "press": 163,
   "history": 45,
   "legal": 132,
   "social": 4,
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 30
+  "spill": 31
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -2074,6 +2074,20 @@
    "sort": "1969-02-15",
    "id": "CH-0147",
    "date_display": "15 Feb 1969"
+  },
+  {
+   "date": "1969-03-01",
+   "event": "The Times reports the British Petroleum Pension Fund’s formal offer to acquire Western Ground Rents Ltd (index entry; the article itself not read).",
+   "source": "Index to The Times, March–April 1969, entry “Western Ground Rents, Ltd.” (The Times, 1 Mar 1969, p.13a)",
+   "url": "https://archive.org/details/indextotimesmarc1969unse",
+   "wayback": "",
+   "evidence": "EV-0724",
+   "origin": "spill",
+   "category": "press",
+   "sort": "1969-03-01",
+   "id": "CH-0627",
+   "date_display": "1 Mar 1969",
+   "spill": "SP-00020"
   },
   {
    "date": "1969-03-07",
@@ -7614,6 +7628,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.31.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0627 (1 Mar 1969): The Times reports the British Petroleum Pension Fund’s formal offer to acquire Western Ground Rents Ltd (index entry; the article itself not [spill SP-00020]",
+   "size": "603 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.30.0",
    "date": "2026-11-07",
