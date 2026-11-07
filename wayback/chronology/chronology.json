@@ -1,12 +1,12 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.31.0",
- "updated_utc": "2026-11-07T12:40Z",
- "count": 603,
+ "version": "1.32.0",
+ "updated_utc": "2026-11-07T12:42Z",
+ "count": 604,
  "by_category": {
   "heritage": 111,
   "press": 163,
-  "history": 45,
+  "history": 46,
   "legal": 132,
   "social": 4,
   "title": 77,
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 31
+  "spill": 32
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -2623,6 +2623,20 @@
    "sort": "1982-11-30",
    "id": "CH-0186",
    "date_display": "30 Nov 1982"
+  },
+  {
+   "date": "1983",
+   "event": "A published Rankine lecture describes the Llandough quarry as “a disused brickworks now developed as a small industrial estate” (link to the Great House Farm quarry parcel not checked).",
+   "source": "Developments in Soil Mechanics: the second ten Rankine lectures (Thomas Telford, 1983), Fig. 56",
+   "url": "https://archive.org/details/developmentsinso0000unse_y4b4",
+   "wayback": "",
+   "evidence": "EV-0725",
+   "origin": "spill",
+   "category": "history",
+   "sort": "1983",
+   "id": "CH-0628",
+   "date_display": "1983",
+   "spill": "SP-00089"
   },
   {
    "date": "23 Feb 1983",
@@ -7628,6 +7642,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.32.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0628 (1983): A published Rankine lecture describes the Llandough quarry as “a disused brickworks now developed as a small industrial estate” (link to the [spill SP-00089]",
+   "size": "604 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.31.0",
    "date": "2026-11-07",
