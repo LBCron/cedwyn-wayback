@@ -1,15 +1,15 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.50.0",
- "updated_utc": "2026-11-07T20:54Z",
- "count": 649,
+ "version": "1.51.0",
+ "updated_utc": "2026-11-07T21:41Z",
+ "count": 654,
  "by_category": {
-  "heritage": 121,
+  "heritage": 123,
   "press": 165,
   "history": 64,
   "legal": 134,
   "social": 5,
-  "title": 88,
+  "title": 91,
   "correspondence": 96
  },
  "by_origin": {
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 77
+  "spill": 82
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -409,6 +409,20 @@
    "spill": "SP-00075"
   },
   {
+   "date": "c.1850",
+   "event": "Cogan Pill (now Barons Court, Llandough community) is 'Restored and remodelled c 1850 by H S Corbett, relative and agent of the Marquess of Bute, as a house for himself'; Cadw's list text records that the former Herbert hall house had earlier been 'later becoming a farmhouse'. A separate house, not a Tŷ Mawr parcel.",
+   "source": "Cadw listed building full report 15765, 'Barons Court PH' (read 7 Nov 2026)",
+   "url": "https://cadwpublic-api.azurewebsites.net/reports/listedbuilding/FullReport?id=15765",
+   "wayback": "",
+   "evidence": "EV-0853",
+   "origin": "spill",
+   "category": "heritage",
+   "sort": "1850-00-00",
+   "id": "CH-0674",
+   "date_display": "c. 1850",
+   "spill": "idle-watch cedwyn-nomenclature#10"
+  },
+  {
    "date": "1855",
    "event": "John Williams succeeds his father in the occupancy of the farm, per a 1904 press report: “He succeeded his father in the occupancy of the farm in 1855” (Cardiff Times, 16 Jul 1904, which calls him “of Llandough Farm”; that he is the Great House John Williams is an inference) (Cardiff Times 1904; EV-0224)",
    "source": "Legal Wiki, Master Timeline · EV-0224",
@@ -490,6 +504,20 @@
    "date_display": "30 Dec 1864"
   },
   {
+   "date": "1865",
+   "event": "Webster's directory of Bristol and Glamorgan (1865, p.443) describes Llandough near Penarth: 'The soil belongs to the Marquis of Bute, who is also lord of the manor'. Its resident list (p.444) has 'Williams, John, farmer' and 'Williams, John, lime burner', with no farm named. A directory statement about the whole parish, not a title record; it counts against the family case.",
+   "source": "Webster & Co.'s Postal and Commercial Directory of the City of Bristol and County of Glamorgan (1865), pp. 443-444 (text layer read 7 Nov 2026)",
+   "url": "https://specialcollections.le.ac.uk/digital/api/collection/p16445coll4/id/87686/download",
+   "wayback": "",
+   "evidence": "EV-0851",
+   "origin": "spill",
+   "category": "title",
+   "sort": "1865-00-00",
+   "id": "CH-0675",
+   "date_display": "1865",
+   "spill": "idle-watch cedwyn-docs#6"
+  },
+  {
    "date": "1866",
    "event": "Present St Dochdwy's Church, Llandough consecrated; its c.1820 predecessor moved and rebuilt at Leckwith.",
    "source": "sconzani (blog)",
@@ -510,6 +538,34 @@
    ],
    "id": "CH-0016",
    "date_display": "1866"
+  },
+  {
+   "date": "1866",
+   "event": "Harrod's directory of Glamorganshire (1866, p.463) repeats the 1865 figures for Llandough near Penarth (600 acres, rateable value £1,327): 'The land belongs to the Marquis of Bute, who is lord of the manor'; residents again include 'Williams John, farmer' and 'Williams John, lime burner'. Likely the same statement as 1865, not an independent one; counts against the family case.",
+   "source": "Harrod & Co.'s Postal and Commercial Directory of Glamorganshire (1866), p. 463 (text layer read 7 Nov 2026)",
+   "url": "https://specialcollections.le.ac.uk/digital/api/collection/p16445coll4/id/343050/download",
+   "wayback": "",
+   "evidence": "EV-0852",
+   "origin": "spill",
+   "category": "title",
+   "sort": "1866-00-00",
+   "id": "CH-0676",
+   "date_display": "1866",
+   "spill": "idle-watch cedwyn-docs#6"
+  },
+  {
+   "date": "1868",
+   "event": "The National Gazetteer (1868) entry for Llandough-juxta-Penarth: limestone quarries, the church of St Dochdwy with 'the remains of an ancient cross', and 'A farm here was formerly the seat of the Herbert family'. The farm is not named (most likely Cogan Pill, not checked); no dated form of the Tŷ Mawr name.",
+   "source": "The National Gazetteer: a topographical dictionary of the British Islands (London, 1868), vol. 2 (Internet Archive text, read 7 Nov 2026)",
+   "url": "https://archive.org/details/nationalgazettee02londuoft",
+   "wayback": "",
+   "evidence": "EV-0854",
+   "origin": "spill",
+   "category": "heritage",
+   "sort": "1868-00-00",
+   "id": "CH-0677",
+   "date_display": "1868",
+   "spill": "idle-watch cedwyn-nomenclature#10"
   },
   {
    "date": "1871-04-02",
@@ -3207,6 +3263,20 @@
    "sort": "1984-05-22",
    "id": "CH-0197",
    "date_display": "22 May 1984"
+  },
+  {
+   "date": "1984-09-07",
+   "event": "Companies House: CEFN ESTATES LIMITED (01846643) is incorporated on 7 Sep 1984 as CAPLOW LIMITED and renamed on 29 Oct 1984; it is dissolved on 15 Feb 2011. It was formed after the 1981 sale of BP pension fund ground rents to 'Cefn Estates' (CH-0180), so the 1981 buyer was a different or earlier body, identity not established.",
+   "source": "Companies House, Find and update company information, CEFN ESTATES LIMITED 01846643 (read 7 Nov 2026)",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/01846643",
+   "wayback": "",
+   "evidence": "EV-0855",
+   "origin": "spill",
+   "category": "title",
+   "sort": "1984-09-07",
+   "id": "CH-0678",
+   "date_display": "7 Sep 1984",
+   "spill": "idle-watch cedwyn-docs#10"
   },
   {
    "date": "1984-10-12",
@@ -8272,6 +8342,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.51.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0674 (c. 1850); CH-0675 (1865); CH-0676 (1866); CH-0677 (1868); CH-0678 (7 Sep 1984) [idle-watch: cedwyn-docs#6, #10, cedwyn-nomenclature#10; catalogue EV-0851 to EV-0855]",
+   "size": "654 events",
+   "price": "free",
+   "who": "Tab agent (idle-watch run)"
+  },
   {
    "version": "1.50.0",
    "date": "2026-11-07",
