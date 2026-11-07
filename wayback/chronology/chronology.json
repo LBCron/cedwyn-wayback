@@ -1,15 +1,15 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.51.0",
- "updated_utc": "2026-11-07T21:41Z",
- "count": 654,
+ "version": "1.52.0",
+ "updated_utc": "2026-11-07T21:52Z",
+ "count": 655,
  "by_category": {
   "heritage": 123,
   "press": 165,
   "history": 64,
   "legal": 134,
   "social": 5,
-  "title": 91,
+  "title": 92,
   "correspondence": 96
  },
  "by_origin": {
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 82
+  "spill": 83
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -2939,6 +2939,20 @@
    "sort": "1978-00-00",
    "id": "CH-0173",
    "date_display": "1978"
+  },
+  {
+   "date": "1978-10-17",
+   "event": "The Land Registration Rules 1978 (SI 1978/1601) are made, in operation from 1 January 1979: a new r.7A requires a ‘day list’ to be kept, recording the date of delivery of every pending application for first registration and every pending application to make, rectify or cancel an entry in the register. The first-registration applications for Great House Farm land at Llandough in November 1982 (WA231076) and February 1983 (WA240304) come after the rules took effect.",
+   "source": "SI 1978/1601 r.3 (inserting r.7A), legislation.gov.uk (official PDF)",
+   "url": "https://www.legislation.gov.uk/uksi/1978/1601/pdfs/uksi_19781601_en.pdf",
+   "wayback": "",
+   "evidence": "EV-0856",
+   "origin": "spill",
+   "category": "title",
+   "sort": "1978-10-17",
+   "id": "CH-0679",
+   "date_display": "17 Oct 1978",
+   "spill": "SP-00066"
   },
   {
    "date": "1979",
@@ -8342,6 +8356,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.52.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0679 (17 Oct 1978): The Land Registration Rules 1978 (SI 1978/1601) are made, in operation from 1 January 1979: a new r.7A requires a ‘day list’ to be kept, rec [spill SP-00066]",
+   "size": "655 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.51.0",
    "date": "2026-11-07",
