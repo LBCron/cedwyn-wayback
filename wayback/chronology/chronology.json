@@ -1,16 +1,16 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.49.0",
- "updated_utc": "2026-11-07T20:31Z",
- "count": 642,
+ "version": "1.50.0",
+ "updated_utc": "2026-11-07T20:54Z",
+ "count": 649,
  "by_category": {
-  "heritage": 120,
+  "heritage": 121,
   "press": 165,
-  "history": 61,
+  "history": 64,
   "legal": 134,
   "social": 5,
-  "title": 86,
-  "correspondence": 95
+  "title": 88,
+  "correspondence": 96
  },
  "by_origin": {
   "wiki-master-timeline": 183,
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 70
+  "spill": 77
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -706,6 +706,20 @@
    "date_display": "3 Apr 1881"
   },
   {
+   "date": "1882-10",
+   "event": "Glamorgan Archives' catalogue of the Cardiff Poor Law Union records lists parish rate books for the three neighbouring parishes: Llandough 1882-1902 (UC/73, five volumes, with no volume between Nov 1884 and May 1896), Cogan 1895-1902 (UC/72) and Penarth 1880-1902 (UC/74), continuing the 1872-1876 Llandough rate books (EV-0848; EV-0212). The volumes are not read, so the Great House entries in them are not checked.",
+   "source": "Glamorgan Archives catalogue (Canfod), Cardiff Poor Law Union records UC/72-UC/74 (read 7 Nov 2026)",
+   "url": "https://canfod.glamarchives.gov.uk/records/UC/73",
+   "wayback": "",
+   "evidence": "EV-0848",
+   "origin": "spill",
+   "category": "history",
+   "sort": "1882-10-00",
+   "id": "CH-0670",
+   "date_display": "1880-1902",
+   "spill": "GH-cedwyn-research-20"
+  },
+  {
    "date": "1883",
    "event": "Col. Hen. Herbert Lee, RE, to land in St. Andrews [major] and Llandough [-juxta-Penarth], 1837-1877, compiled 1883, 1837-1877 — Abstract of title (compiled 1883) for land in St Andrews Major and Llandough-juxta-Penarth, 1837–1877, in the Vaughan and Roche solicitors' collection; which Llandough land is covered is not stated in the catalogue line.",
    "source": "Media register MR-0220",
@@ -909,6 +923,20 @@
    "id": "CH-0663",
    "date_display": "27 Sep 1893",
    "spill": "GH-cedwyn-research-21"
+  },
+  {
+   "date": "1894",
+   "event": "Penarth Urban District Council, formed in 1894 from the Penarth Local Board of Health, is responsible for the parishes of Penarth, Cogan and Llandough juxta Penarth until 31 March 1974, when it merges into the Vale of Glamorgan District Council; its minutes, deed registers and building regulation plans (1877-c1973, incomplete) are at Glamorgan Archives, UDPE (EV-0850).",
+   "source": "Glamorgan Archives catalogue (Canfod), Penarth Urban District Council records UDPE, fonds description (read 7 Nov 2026)",
+   "url": "https://canfod.glamarchives.gov.uk/records/UDPE",
+   "wayback": "",
+   "evidence": "EV-0850",
+   "origin": "spill",
+   "category": "history",
+   "sort": "1894-00-00",
+   "id": "CH-0672",
+   "date_display": "1894-1974",
+   "spill": "GH-cedwyn-research-3"
   },
   {
    "date": "31 Jul 1894",
@@ -2327,6 +2355,20 @@
    "sort": "1965-00-00",
    "id": "CH-0139",
    "date_display": "1965"
+  },
+  {
+   "date": "1965",
+   "event": "Wikipedia's Llandough article, citing The Glamorgan Village Book (1993), states that until the mid-1960s Llandough was 'a small farming and quarrying village', then saw many new houses, a primary school (opened in 1970) and a block of six shops, with housing built 'on what was once the fields of Great House Farm in the 1960s'. Not checked against the book or against the Penarth UDC building plans (EV-0850).",
+   "source": "Wikipedia, 'Llandough, Penarth', citing The Glamorgan Village Book (Glamorgan Federation of Women's Institutes, 1993) (read 7 Nov 2026)",
+   "url": "https://en.wikipedia.org/wiki/Llandough,_Penarth",
+   "wayback": "",
+   "evidence": "EV-0850",
+   "origin": "spill",
+   "category": "history",
+   "sort": "1965-00-00",
+   "id": "CH-0673",
+   "date_display": "mid-1960s to 1970",
+   "spill": "GH-cedwyn-research-3"
   },
   {
    "date": "Jan–Mar 1965",
@@ -4185,6 +4227,20 @@
    "date_display": "21 Dec 1988"
   },
   {
+   "date": "1988",
+   "event": "The Historic Environment Record's source list cites the Royal Commission's Glamorgan Inventory volume IV part II, Farmhouses and Cottages (1988), p.582, no. 445, for Great House; the Commission's December 1988 description records that its plan 'was not published in the Inventory ... because of the incompleteness of the available information but it was classified as a sub-medieval house of direct-entry type' (EV-0849). The printed page is not seen here.",
+   "source": "Heneb HER (Archwilio) PRN 02038s report, RCAHMW description by R. F. Suggett, Dec 1988 (read 7 Nov 2026)",
+   "url": "https://archwilio.org.uk/her/chi3/report/page.php?watprn=GGAT02038s#sources",
+   "wayback": "",
+   "evidence": "EV-0849",
+   "origin": "spill",
+   "category": "heritage",
+   "sort": "1988-12-31",
+   "id": "CH-0671",
+   "date_display": "1988",
+   "spill": "GH-cedwyn-research-23"
+  },
+  {
    "date": "1989",
    "event": "South Wales Echo feature, “From farm to a bus”: Billy Buckler, “whose home was demolished last year”, plans to live in an old bus he is converting (EV-0112; exact date not confirmed).",
    "source": "Legal Wiki, Master Timeline · EV-0112",
@@ -5596,6 +5652,20 @@
    "spill": "GH-cedwyn-research-46"
   },
   {
+   "date": "2011",
+   "event": "The Vale of Glamorgan Council's 2011 assessment of candidate sites for its Local Development Plan lists 'Land to the south of Leckwith Road, Llandough' (2838/CS.1) and 'Land east of Leckwith Rd, Leckwith' (2844/CS.1) among sites rejected at Stage 1 for not fitting the spatial strategy, with land beside the Rectory Lodge, Leckwith (2170/CS.1-2) (EV-0846). Who put the sites forward is not given.",
+   "source": "Vale of Glamorgan Council, LDP Findings of the Candidate Site Assessment Process, 2011, Table 1 (read 7 Nov 2026)",
+   "url": "https://www.valeofglamorgan.gov.uk/Documents/Living/Planning/Policy/LDP/Background%20Papers/Findings_of_the_Candidate_Site_Assessment_Process_2011.pdf",
+   "wayback": "",
+   "evidence": "EV-0846",
+   "origin": "spill",
+   "category": "title",
+   "sort": "2011-00-00",
+   "id": "CH-0667",
+   "date_display": "2011",
+   "spill": "GH-cedwyn-research-7"
+  },
+  {
    "date": "2011-10-12",
    "event": "HK Land Law blog: “Unilateral licence can stop time running for adverse possession” — Hong Kong land-law blog post discussing the case.",
    "source": "Media register MR-0100",
@@ -5609,6 +5679,20 @@
    "sort": "2011-10-12",
    "id": "CH-0370",
    "date_display": "12 Oct 2011"
+  },
+  {
+   "date": "2012-02",
+   "event": "The Deposit Local Development Plan allocates two Llandough housing sites: 'Land south of Llandough Hill/Penarth Road' (5.23 ha, 150 dwellings, east of the primary school, bounded by Cogan Pill Road) and 'Land north & south of Leckwith Road' (0.96 ha, 20 dwellings), the northern parcel 'along a ridge of a former quarry along Leckwith Road' (EV-0845). How the Leckwith Road allocation relates to the 2011 rejected candidate 2838/CS.1 is not checked.",
+   "source": "Vale of Glamorgan Council, Deposit LDP 2011-2026 Written Statement, Feb 2012, printed pp.73 and 136-137 (read 7 Nov 2026)",
+   "url": "https://www.valeofglamorgan.gov.uk/Documents/Living/Planning/Policy/LDP/Vale_of_Glamorgan_Deposit_LDP_Written_Statement_Feb_2012.pdf",
+   "wayback": "",
+   "evidence": "EV-0845",
+   "origin": "spill",
+   "category": "title",
+   "sort": "2012-02-00",
+   "id": "CH-0668",
+   "date_display": "Feb 2012",
+   "spill": "GH-cedwyn-research-7"
   },
   {
    "date": "2012-08-29",
@@ -5835,6 +5919,20 @@
    "sort": "2020-11-12",
    "id": "CH-0386",
    "date_display": "12 Nov 2020"
+  },
+  {
+   "date": "2021-02-10",
+   "event": "At an extraordinary meeting Llandough Community Council resolves its comments on application 2020/01590/HYB for land south of Llandough Hill: traffic on the narrow hill, 100 flats 'totally out of character', loss of mature trees by Cogan Pill Road, 'an abundance of natural underground springs at the development site', flood risk, school capacity and soil-quality concerns (EV-0847).",
+   "source": "Llandough Community Council, minutes of the extraordinary meeting of 10 Feb 2021, item 2 (read 7 Nov 2026)",
+   "url": "https://www.llandough-cc.co.uk/_UserFiles/Files/_Minutes/117238-Extraordinary_Council_Minutes_February_2021.pdf",
+   "wayback": "",
+   "evidence": "EV-0847",
+   "origin": "spill",
+   "category": "correspondence",
+   "sort": "2021-02-10",
+   "id": "CH-0669",
+   "date_display": "10 Feb 2021",
+   "spill": "GH-cedwyn-research-7"
   },
   {
    "date": "2023",
@@ -8174,6 +8272,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.50.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0667 (2011); CH-0668 (Feb 2012); CH-0669 (10 Feb 2021); CH-0670 (1880-1902); CH-0671 (1988); CH-0672 (1894-1974); CH-0673 (mid-1960s to 1970) [idle-watch: cedwyn-research#7, #20; catalogue EV-0845 to EV-0848]",
+   "size": "649 events",
+   "price": "free",
+   "who": "Tab agent (idle-watch run)"
+  },
   {
    "version": "1.49.0",
    "date": "2026-11-07",
