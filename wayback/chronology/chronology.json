@@ -1,8 +1,8 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.22.0",
- "updated_utc": "2026-11-07T03:47Z",
- "count": 594,
+ "version": "1.23.0",
+ "updated_utc": "2026-11-07T03:49Z",
+ "count": 595,
  "by_category": {
   "heritage": 111,
   "press": 162,
@@ -10,7 +10,7 @@
   "legal": 131,
   "social": 4,
   "title": 77,
-  "correspondence": 88
+  "correspondence": 89
  },
  "by_origin": {
   "wiki-master-timeline": 183,
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 22
+  "spill": 23
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -6489,6 +6489,20 @@
    "date_display": "22 Sep 2026"
   },
   {
+   "date": "2026-09-22",
+   "event": "Amgueddfa Cymru – Museum Wales internal review of FOI 2026-024 upholds the “not held” answer and states that the other archaeological records found at Tŷ Mawr (Great House) during the searches will receive a separate response.",
+   "source": "Amgueddfa Cymru – Museum Wales, internal review of FOI 2026-024, 22 Sep 2026",
+   "url": "https://cedwyn.bucklerfamily.estate/api/catalogue/EV-0716",
+   "wayback": "",
+   "evidence": "EV-0716",
+   "origin": "spill",
+   "category": "correspondence",
+   "sort": "2026-09-22",
+   "id": "CH-0619",
+   "date_display": "22 Sep 2026",
+   "spill": "SP-00093"
+  },
+  {
    "date": "7 and 24 Sep 2026",
    "event": "Glamorgan Archives: £60 for 53 images (ACA/8/2); £50 rate-book search; £50 planning-minutes search",
    "source": "Glamorgan Archives ACA/8/2",
@@ -7502,6 +7516,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.23.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0619 (22 Sep 2026): Amgueddfa Cymru – Museum Wales internal review of FOI 2026-024 upholds the “not held” answer and states that the other archaeological record [spill SP-00093]",
+   "size": "595 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.22.0",
    "date": "2026-11-07",
