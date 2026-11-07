@@ -1,14 +1,14 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.47.0",
- "updated_utc": "2026-11-07T20:19Z",
- "count": 635,
+ "version": "1.48.0",
+ "updated_utc": "2026-11-07T20:22Z",
+ "count": 636,
  "by_category": {
   "heritage": 120,
   "press": 165,
   "history": 59,
   "legal": 134,
-  "social": 4,
+  "social": 5,
   "title": 82,
   "correspondence": 95
  },
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 63
+  "spill": 64
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -5341,6 +5341,20 @@
    "date_display": "2000"
   },
   {
+   "date": "6 Feb 2001",
+   "event": "A Charity Commission scheme of 6 February 2001 governs the Llandough and Leckwith War Memorial Institute (charity 213965): a village hall for the inhabitants of the area, kept as a memorial to those who died in 1914-1918 (EV-0841). The hall, at ST 16787 73119, carries WW1 (8 names) and WW2 (4 names) brass plaques (IWM War Memorials Register 6685; EV-0840). Where the hall's land came from is not checked.",
+   "source": "Charity Commission register, charity 213965 (governing document); IWM War Memorials Register 6685",
+   "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/213965/governing-document",
+   "wayback": "",
+   "evidence": "EV-0841",
+   "origin": "spill",
+   "category": "social",
+   "sort": "2001-02-06",
+   "id": "CH-0660",
+   "date_display": "6 Feb 2001",
+   "spill": "GH-cedwyn-research-8b"
+  },
+  {
    "date": "2004",
    "event": "Environmental Information Regulations 2004 (SI 2004/3391), regs 5(2), 11(4), 12(4)(b)",
    "source": "SI 2004/3391",
@@ -8076,6 +8090,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.48.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0660 (6 Feb 2001) [idle-watch: cedwyn-research#8; catalogue EV-0840, EV-0841]",
+   "size": "636 events",
+   "price": "free",
+   "who": "Tab agent (idle-watch run)"
+  },
   {
    "version": "1.47.0",
    "date": "2026-11-07",
