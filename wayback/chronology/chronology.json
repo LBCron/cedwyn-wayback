@@ -1,8 +1,8 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.26.0",
+ "version": "1.27.0",
  "updated_utc": "2026-11-07T09:55Z",
- "count": 598,
+ "count": 599,
  "by_category": {
   "heritage": 111,
   "press": 162,
@@ -10,7 +10,7 @@
   "legal": 132,
   "social": 4,
   "title": 77,
-  "correspondence": 91
+  "correspondence": 92
  },
  "by_origin": {
   "wiki-master-timeline": 183,
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 26
+  "spill": 27
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -7446,6 +7446,20 @@
    "date_display": "22 Oct 2026"
   },
   {
+   "date": "2026-10-23",
+   "event": "bp replies to the 16 Oct 2026 preservation request for Great House Farm / Tŷ Mawr records (1969 to date): it knows of no live cause of action, treats BP Properties Ltd v Buckler (1987) as concluded, and is “not able to confirm” a preservation hold. A further request on 24 Oct asks for an answer by 7 Nov 2026.",
+   "source": "bp, email of 23 Oct 2026 09:26 UTC; further request 24 Oct 2026",
+   "url": "https://cedwyn.bucklerfamily.estate/api/catalogue/EV-0720",
+   "wayback": "",
+   "evidence": "EV-0720",
+   "origin": "spill",
+   "category": "correspondence",
+   "sort": "2026-10-23",
+   "id": "CH-0623",
+   "date_display": "23 Oct 2026",
+   "spill": "SP-00098"
+  },
+  {
    "date": "26 Oct 2026",
    "event": "Wales Office internal review of 26FOI 103 due (per the family’s email; not checked against the authority’s letter) (PENDING)",
    "source": "Legal Wiki, Master Timeline",
@@ -7558,6 +7572,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.27.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0623 (23 Oct 2026): bp replies to the 16 Oct 2026 preservation request for Great House Farm / Tŷ Mawr records (1969 to date): it knows of no live cause of actio [spill SP-00098]",
+   "size": "599 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.26.0",
    "date": "2026-11-07",
