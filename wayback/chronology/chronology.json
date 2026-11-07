@@ -1,10 +1,10 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.36.0",
- "updated_utc": "2026-11-07T15:49Z",
- "count": 608,
+ "version": "1.37.0",
+ "updated_utc": "2026-11-07T15:50Z",
+ "count": 609,
  "by_category": {
-  "heritage": 112,
+  "heritage": 113,
   "press": 165,
   "history": 46,
   "legal": 132,
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 36
+  "spill": 37
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -3012,6 +3012,20 @@
    "sort": "1987-05-06",
    "id": "CH-0207",
    "date_display": "6 May 1987"
+  },
+  {
+   "date": "1987-05-27",
+   "event": "A colour vertical air sortie ('Taff-Ely Estuary', Cambridge University Collection of Aerial Photography) passes over Llandough; frames RC8kAU070 and RC8kAU071 are centred close to Tŷ Mawr (Great House). Not digitised.",
+   "source": "Cambridge University Collection of Aerial Photography, catalogue entries RC8kAU070 and RC8kAU071",
+   "url": "https://www.cambridgeairphotos.com/",
+   "wayback": "",
+   "evidence": "EV-0730",
+   "origin": "spill",
+   "category": "heritage",
+   "sort": "1987-05-27",
+   "id": "CH-0633",
+   "date_display": "27 May 1987",
+   "spill": "SP-00116"
   },
   {
    "date": "31 Jul 1987",
@@ -7698,6 +7712,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.37.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0633 (27 May 1987): A colour vertical air sortie ('Taff-Ely Estuary', Cambridge University Collection of Aerial Photography) passes over Llandough; frames RC8kA [spill SP-00116]",
+   "size": "609 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.36.0",
    "date": "2026-11-07",
