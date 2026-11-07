@@ -1,15 +1,15 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.17.0",
- "updated_utc": "2026-11-07T00:45Z",
- "count": 589,
+ "version": "1.18.0",
+ "updated_utc": "2026-11-07T00:46Z",
+ "count": 590,
  "by_category": {
   "heritage": 111,
   "press": 162,
   "history": 45,
   "legal": 131,
   "social": 4,
-  "title": 73,
+  "title": 74,
   "correspondence": 87
  },
  "by_origin": {
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 17
+  "spill": 18
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -1944,6 +1944,20 @@
    "sort": "1965-06-11",
    "id": "CH-0141",
    "date_display": "11 June 1965"
+  },
+  {
+   "date": "1966-11-24",
+   "event": "The Commons Registration (Time Limits) Order 1966 (SI 1966/1470) is made: registration under the Commons Registration Act 1965 runs from 2 January 1967 to 31 March 1970, and applications to register land as common or as a town or village green are not entertained if made after 2 January 1970. The Llandough village-green entry VG41 is dated 16 June 1970. legislation.gov.uk files the order under “COMMON, ENGLAND”; its reach in Wales is not checked.",
+   "source": "SI 1966/1470 arts 2–3, legislation.gov.uk (as made)",
+   "url": "https://www.legislation.gov.uk/uksi/1966/1470/made",
+   "wayback": "",
+   "evidence": "EV-0708",
+   "origin": "spill",
+   "category": "title",
+   "sort": "1966-11-24",
+   "id": "CH-0614",
+   "date_display": "24 Nov 1966",
+   "spill": "SP-00065"
   },
   {
    "date": "1967",
@@ -7432,6 +7446,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.18.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0614 (24 Nov 1966): The Commons Registration (Time Limits) Order 1966 (SI 1966/1470) is made: registration under the Commons Registration Act 1965 runs from 2 J [spill SP-00065]",
+   "size": "590 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.17.0",
    "date": "2026-11-07",
