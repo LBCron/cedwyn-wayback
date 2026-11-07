@@ -1,12 +1,12 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.45.0",
- "updated_utc": "2026-11-07T18:40Z",
- "count": 628,
+ "version": "1.46.0",
+ "updated_utc": "2026-11-07T20:03Z",
+ "count": 631,
  "by_category": {
   "heritage": 117,
   "press": 165,
-  "history": 55,
+  "history": 58,
   "legal": 134,
   "social": 4,
   "title": 82,
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 56
+  "spill": 59
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -127,6 +127,20 @@
    "spill": "GH-cedwyn-research-5b"
   },
   {
+   "date": "1578",
+   "event": "Rice Merrick's Morganiae Archaiographia places Pennarth, Cogan, Landoch and Leckwith in the hundred of Dynispowys, and its ploughland table gives \"Cogan iiij\" and \"East Landoch & Penarch iij\", with Leckwith listed (1887 edition, pp. 44, 108-109; EV-0832). The \"East Landoch\" form marks this Llandough apart from Llandough near Cowbridge. The manuscript is not checked.",
+   "source": "Rice Merrick, A Booke of Glamorganshires Antiquities (1578; Dryden Press, 1887), archive.org copy",
+   "url": "https://archive.org/details/merrick-rice-a-booke-of-glamorganshires-antiquities-dryden-press-1887/page/n57",
+   "wayback": "",
+   "evidence": "EV-0832",
+   "origin": "spill",
+   "category": "history",
+   "sort": "1578-00-00",
+   "id": "CH-0653",
+   "date_display": "1578",
+   "spill": "GH-cedwyn-research-32"
+  },
+  {
    "date": "1596",
    "event": "The Herbert Abbreviate records that the manor of \"Landoche-juxta-Cardif had free tenants, demesnes and copyholds\", and that Leckwith manor \"hath free tenants leases, coppy houlds, and customary lands and tenaunts to them and theire heires for ever\", as printed in Cardiff Records vol. 2 (1900) (EV-0825). The manuscript is not checked.",
    "source": "J. Hobson Matthews (ed.), Cardiff Records vol. 2 (1900), pp. 8-41 (British History Online, read 7 Nov 2026)",
@@ -139,6 +153,20 @@
    "id": "CH-0648",
    "date_display": "1596",
    "spill": "GH-cedwyn-research-5c"
+  },
+  {
+   "date": "24 May 1665",
+   "event": "James Corey, clerk, is admitted by Bishop Hugh of Llandaff to the rectory of \"Lickwith, Landough et Cogan\" on the death of Thomas Basset, on the presentation of William Herbert, esquire, \"true patron\" (William Herbert of the White Friars in Cardiff) (Bishops' Act Book I, printed 1908; EV-0833). The three parishes are already one rectory here; CCEd dates the formal union to 1698 (EV-0834). A church-patronage record, not a land title.",
+   "source": "Llandaff Records vol. 1 (1908), p. 53, archive.org copy",
+   "url": "https://archive.org/details/llandaffrecords01diogoog/page/n57",
+   "wayback": "",
+   "evidence": "EV-0833",
+   "origin": "spill",
+   "category": "history",
+   "sort": "1665-05-24",
+   "id": "CH-0654",
+   "date_display": "24 May 1665",
+   "spill": "GH-cedwyn-research-29"
   },
   {
    "date": "1667",
@@ -165,6 +193,20 @@
    "id": "CH-0639",
    "date_display": "1671–1673",
    "spill": "GH-cedwyn-462"
+  },
+  {
+   "date": "1689",
+   "event": "Three Williams rectors in succession serve Leckwith, Llandough and Cogan: Howell (Hoelus) Williams instituted 1689 (died 1714), William (Gulielmus) Williams admitted 1714, Charles Williams instituted 1736 (died 1753) (CCEd location records; EV-0834). Their relation to the Williams of Tŷ Mawr is not checked.",
+   "source": "Clergy of the Church of England Database, location 234489 (archive.org capture)",
+   "url": "https://theclergydatabase.org.uk/jsp/locations/DisplayLocation.jsp?locKey=234489",
+   "wayback": "http://web.archive.org/web/20240527005659/https://theclergydatabase.org.uk/jsp/locations/DisplayLocation.jsp?locKey=234489",
+   "evidence": "EV-0834",
+   "origin": "spill",
+   "category": "history",
+   "sort": "1689-00-00",
+   "id": "CH-0655",
+   "date_display": "1689-1753",
+   "spill": "GH-cedwyn-research-30"
   },
   {
    "date": "1784",
@@ -7978,6 +8020,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.46.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0653 (1578); CH-0654 (24 May 1665); CH-0655 (1689-1753) [idle-watch: cedwyn-research#29, #30, #32; catalogue EV-0832 to EV-0834]",
+   "size": "631 events",
+   "price": "free",
+   "who": "Tab agent (idle-watch run)"
+  },
   {
    "version": "1.45.0",
    "date": "2026-11-07",
