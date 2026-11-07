@@ -1,10 +1,9 @@
 name: mirror-from-cedwyn
+# Retired 7 Nov 2026 (problems flywheel, P-WAYBACK-MIRROR-SPLIT): split-repos.json marks this app
+# mode 'split-repo', so this repo is the source and the old cedwyn@wayback branch is a legacy copy.
+# The 30-minute cron could only ever skip; a copy would rsync --delete the dedicated repo over a stale branch.
+# Manual run only; the mode check below still refuses to copy unless the mode returns to 'mirror'.
 on:
-  schedule:
-    - cron: '*/30 * * * *'
-  push:
-    branches: [main]
-    paths: ['.github/workflows/mirror.yml']
   workflow_dispatch:
 permissions:
   contents: write
