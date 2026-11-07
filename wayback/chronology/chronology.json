@@ -1,10 +1,10 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.16.0",
+ "version": "1.17.0",
  "updated_utc": "2026-11-07T00:45Z",
- "count": 588,
+ "count": 589,
  "by_category": {
-  "heritage": 110,
+  "heritage": 111,
   "press": 162,
   "history": 45,
   "legal": 131,
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 16
+  "spill": 17
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -272,6 +272,20 @@
    ],
    "id": "CH-0016",
    "date_display": "1866"
+  },
+  {
+   "date": "1871-04-02",
+   "event": "The 1871 census for Llandough juxta Penarth (RG10/5368, p.3, schedule 14) records John Williams, head, 43, born Llandough, “Farmer 110 Acres, Emp 2 Men”, with his wife Mary (41) and daughters, at the house the enumerator names “Great House Farm”. Read from the FreeCEN transcription; the page image is not checked.",
+   "source": "TNA RG10/5368 p.3 sched.14 (1871 census), FreeCEN transcription",
+   "url": "https://www.freecen.org.uk/search_records/67be57f8b18f7c58367be811/john-williams-1871-glamorgan-morgannwg-llandough-juxta-penarth-1828-",
+   "wayback": "",
+   "evidence": "EV-0706",
+   "origin": "spill",
+   "category": "heritage",
+   "sort": "1871-04-02",
+   "id": "CH-0613",
+   "date_display": "2 Apr 1871",
+   "spill": "SP-00049"
   },
   {
    "date": "1872-01-01",
@@ -7418,6 +7432,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.17.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0613 (2 Apr 1871): The 1871 census for Llandough juxta Penarth (RG10/5368, p.3, schedule 14) records John Williams, head, 43, born Llandough, “Farmer 110 Acres [spill SP-00049]",
+   "size": "589 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.16.0",
    "date": "2026-11-07",
