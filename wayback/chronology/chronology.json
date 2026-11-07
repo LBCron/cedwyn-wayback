@@ -1,11 +1,11 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.33.0",
- "updated_utc": "2026-11-07T15:48Z",
- "count": 605,
+ "version": "1.34.0",
+ "updated_utc": "2026-11-07T15:49Z",
+ "count": 606,
  "by_category": {
   "heritage": 111,
-  "press": 164,
+  "press": 165,
   "history": 46,
   "legal": 132,
   "social": 4,
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 33
+  "spill": 34
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -239,6 +239,20 @@
    ],
    "id": "CH-0012",
    "date_display": "1842"
+  },
+  {
+   "date": "1847-12-04",
+   "event": "The Cardiff and Merthyr Guardian reports a ploughing match (1 Dec 1847) for the sons and servants of farmers in Leckwith, Llandough and Cogan; a prize goes to “William Williams, eldest son of Mr. J. … of the Great House Farm, Landough”: the name Great House Farm in print by 1847.",
+   "source": "The Cardiff and Merthyr Guardian, 4 Dec 1847, p.3, 'Agricultural Emulation' (Welsh Newspapers)",
+   "url": "https://newspapers.library.wales/view/3089099/3089102/21/",
+   "wayback": "",
+   "evidence": "EV-0727",
+   "origin": "spill",
+   "category": "press",
+   "sort": "1847-12-04",
+   "id": "CH-0630",
+   "date_display": "4 Dec 1847",
+   "spill": "SP-00075"
   },
   {
    "date": "1855",
@@ -7656,6 +7670,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.34.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0630 (4 Dec 1847): The Cardiff and Merthyr Guardian reports a ploughing match (1 Dec 1847) for the sons and servants of farmers in Leckwith, Llandough and Coga [spill SP-00075]",
+   "size": "606 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.33.0",
    "date": "2026-11-07",
