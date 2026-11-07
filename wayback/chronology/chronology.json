@@ -1,17 +1,16 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.38.0",
- "updated_utc": "2026-11-07T16:31Z",
+ "version": "1.38.1",
+ "updated_utc": "2026-11-07T16:35Z",
  "count": 610,
  "by_category": {
-  "heritage": 113,
+  "heritage": 114,
   "press": 165,
   "history": 46,
   "legal": 132,
   "social": 4,
   "title": 78,
-  "correspondence": 95,
-  "archaeology": 1
+  "correspondence": 95
  },
  "by_origin": {
   "wiki-master-timeline": 183,
@@ -5170,7 +5169,7 @@
    "wayback": "",
    "evidence": "EV-0733",
    "origin": "spill",
-   "category": "archaeology",
+   "category": "heritage",
    "sort": "2011",
    "id": "CH-0634",
    "date_display": "2011",
@@ -7727,6 +7726,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.38.1",
+   "date": "2026-11-07",
+   "change": "Correction to CH-0634 (added in 1.38.0): category set to heritage, the category the other archaeology rows use (CH-0133, CH-0134). Event text unchanged.",
+   "size": "610 events",
+   "price": "free",
+   "who": "Tab agent"
+  },
   {
    "version": "1.38.0",
    "date": "2026-11-07",
