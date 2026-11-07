@@ -1,15 +1,15 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.48.0",
- "updated_utc": "2026-11-07T20:22Z",
- "count": 636,
+ "version": "1.49.0",
+ "updated_utc": "2026-11-07T20:31Z",
+ "count": 642,
  "by_category": {
   "heritage": 120,
   "press": 165,
-  "history": 59,
+  "history": 61,
   "legal": 134,
   "social": 5,
-  "title": 82,
+  "title": 86,
   "correspondence": 95
  },
  "by_origin": {
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 64
+  "spill": 70
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -83,6 +83,20 @@
    "id": "CH-0612",
    "date_display": "13th century",
    "spill": "SP-00047"
+  },
+  {
+   "date": "1238",
+   "event": "The Annals of Tewkesbury for 1238, as summarised by D. R. Paterson (1934, p. 28), record a dispute over Cogan chapel after which it \"remained in its first condition, as it is, a chapel of Llandough\"; a presentation of 1184-5 had already named Llandough as the mother church (EV-0842). The Annals themselves are not checked.",
+   "source": "D. R. Paterson, 'The Manors of Sully, Cosmeston, Penarth and Cogan', Trans. Cardiff Naturalists' Society LXVII (1934), pp. 17-30 (NLW Welsh Journals scan, read 7 Nov 2026)",
+   "url": "https://datasyllwr.llgc.org.uk/journals/pdf/AWJBW036004.pdf",
+   "wayback": "",
+   "evidence": "EV-0842",
+   "origin": "spill",
+   "category": "history",
+   "sort": "1238-00-00",
+   "id": "CH-0661",
+   "date_display": "1238",
+   "spill": "GH-cedwyn-research-9"
   },
   {
    "date": "1535",
@@ -248,6 +262,20 @@
    "sort": "1790-00-00",
    "id": "CH-0005",
    "date_display": "1790"
+  },
+  {
+   "date": "1793",
+   "event": "D. R. Paterson (1934, p. 30) writes that the manor of Cogan, with its mansion of Cogan Pill, stayed with the Herberts until the line ended in heiresses in the mid-18th century and \"was ultimately purchased in 1793 by Lord Bute\"; he reads the 1545 Herbert rental as making it \"very probable\" that Cogan manor included lands in Llandough parish (EV-0842). The 1793 conveyance is not checked; this concerns Cogan manor, not Tŷ Mawr.",
+   "source": "D. R. Paterson, 'The Manors of Sully, Cosmeston, Penarth and Cogan', Trans. Cardiff Naturalists' Society LXVII (1934), pp. 17-30 (NLW Welsh Journals scan, read 7 Nov 2026)",
+   "url": "https://datasyllwr.llgc.org.uk/journals/pdf/AWJBW036004.pdf",
+   "wayback": "",
+   "evidence": "EV-0842",
+   "origin": "spill",
+   "category": "history",
+   "sort": "1793-00-00",
+   "id": "CH-0662",
+   "date_display": "1793",
+   "spill": "GH-cedwyn-research-9"
   },
   {
    "date": "1800",
@@ -869,6 +897,20 @@
    "date_display": "10 Jun 1892"
   },
   {
+   "date": "1893-09-27",
+   "event": "A deed of exchange of 27 September 1893 between the trustees of the will of the late marquess of Bute and the marquess covers lands in Leckwith, \"Llandough-juxta-Barry\", Cogan and six other parishes, with a detailed schedule and plans (Glamorgan Archives DB/33/1-2, catalogue entry; EV-0843). The schedule and plans are not seen (missing record MR-0067), so the fields involved, and which Llandough is meant, are not checked.",
+   "source": "Glamorgan Archives, Bute Glamorgan Estates catalogue (GB 0214 DB), DB/33/1-2 (catalogue PDF on TNA Discovery, read 7 Nov 2026)",
+   "url": "https://discovery.nationalarchives.gov.uk/download/GB%200214%20DB",
+   "wayback": "",
+   "evidence": "EV-0843",
+   "origin": "spill",
+   "category": "title",
+   "sort": "1893-09-27",
+   "id": "CH-0663",
+   "date_display": "27 Sep 1893",
+   "spill": "GH-cedwyn-research-21"
+  },
+  {
    "date": "31 Jul 1894",
    "event": "Rev. F. E. Williams inducted as rector of Llandough, Leckwith and Cogan (Bute patron of the living): a different Williams, not the Great House family (EV-0281)",
    "source": "Legal Wiki, Master Timeline · EV-0281",
@@ -999,6 +1041,20 @@
    "sort": "1900-00-00",
    "id": "CH-0053",
    "date_display": "1900"
+  },
+  {
+   "date": "1900",
+   "event": "Glamorgan Archives' description of the Bute estate papers records that the Glamorgan estate, 22,000 acres at the 3rd marquis's death in 1900, \"was divided unequally between John, 4th marquis (1881-1947) and Colum, the youngest son, who received most of the Bute property in the Vale of Glamorgan\" (EV-0844; companion to the 1900 will reports, EV-0012). The division deeds are not checked.",
+   "source": "Glamorgan Archives, Glamorgan Estate of Lord Bute collection (GB 0214 DA), fonds description, March 2001 (TNA Discovery, read 7 Nov 2026)",
+   "url": "https://discovery.nationalarchives.gov.uk/download/GB%200214%20DA_cld",
+   "wayback": "",
+   "evidence": "EV-0844",
+   "origin": "spill",
+   "category": "title",
+   "sort": "1900-00-01",
+   "id": "CH-0664",
+   "date_display": "1900",
+   "spill": "GH-cedwyn-research-22"
   },
   {
    "date": "1900-10-20",
@@ -1212,6 +1268,20 @@
    "date_display": "23 Oct 1908"
   },
   {
+   "date": "1909",
+   "event": "The same archive description dates the start of Bute disposals in Glamorgan to \"the sale of urban land in 1909\", followed by the colliery sales and, in 1923-1924, \"a considerable portion of the farms and other freehold property within the coalfields\" (EV-0844). Leckwith and Llandough are not named and lie outside the coalfield; whether any farm there was in those sales is not checked.",
+   "source": "Glamorgan Archives, Glamorgan Estate of Lord Bute collection (GB 0214 DA), fonds description, March 2001 (TNA Discovery, read 7 Nov 2026)",
+   "url": "https://discovery.nationalarchives.gov.uk/download/GB%200214%20DA_cld",
+   "wayback": "",
+   "evidence": "EV-0844",
+   "origin": "spill",
+   "category": "title",
+   "sort": "1909-00-00",
+   "id": "CH-0665",
+   "date_display": "1909; 1923-1924",
+   "spill": "GH-cedwyn-research-22"
+  },
+  {
    "date": "c. 1908–09",
    "event": "Frederick Buckler born c. 1908–09 (derived from his death in 1967 aged 58: GRO death index, East Glamorgan 8b 364) (Frederick Buckler)",
    "source": "Legal Wiki, Master Timeline",
@@ -1416,6 +1486,20 @@
    "id": "CH-0649",
    "date_display": "1926",
    "spill": "GH-cedwyn-research-4"
+  },
+  {
+   "date": "1926",
+   "event": "Glamorgan Archives' description records that \"In 1926, the remaining Bute property was incorporated under a private family company called Mountjoy Ltd\", which in 1938 sold its leasehold interests to the Western Ground Rents Company (EV-0844). The 1926 transfer documents are not checked.",
+   "source": "Glamorgan Archives, Glamorgan Estate of Lord Bute collection (GB 0214 DA), fonds description, March 2001 (TNA Discovery, read 7 Nov 2026)",
+   "url": "https://discovery.nationalarchives.gov.uk/download/GB%200214%20DA_cld",
+   "wayback": "",
+   "evidence": "EV-0844",
+   "origin": "spill",
+   "category": "title",
+   "sort": "1926-00-00",
+   "id": "CH-0666",
+   "date_display": "1926",
+   "spill": "GH-cedwyn-research-22"
   },
   {
    "date": "14 Dec 1927",
@@ -8090,6 +8174,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.49.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0661 (1238); CH-0662 (1793); CH-0663 (27 Sep 1893); CH-0664 (1900); CH-0665 (1909; 1923-1924); CH-0666 (1926) [idle-watch: cedwyn-research#9, #21, #22; catalogue EV-0842 to EV-0844]",
+   "size": "642 events",
+   "price": "free",
+   "who": "Tab agent (idle-watch run)"
+  },
   {
    "version": "1.48.0",
    "date": "2026-11-07",
