@@ -1,15 +1,15 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.18.0",
+ "version": "1.19.0",
  "updated_utc": "2026-11-07T00:46Z",
- "count": 590,
+ "count": 591,
  "by_category": {
   "heritage": 111,
   "press": 162,
   "history": 45,
   "legal": 131,
   "social": 4,
-  "title": 74,
+  "title": 75,
   "correspondence": 87
  },
  "by_origin": {
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 18
+  "spill": 19
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -193,6 +193,20 @@
    "sort": "1841-00-00",
    "id": "CH-0011",
    "date_display": "1841"
+  },
+  {
+   "date": "1841",
+   "event": "Tithe apportionment for Llandough, Cogan and Leckwith, schedule canvas 23: the landowner column reads “Manor lord of the (Marquess of Bute)” only for plots 319–322 (Leckwith moors pasture, occupier William Thomas), 4 of the 577 indexed rows. The Tŷ Mawr (Great House) plots, 209 “Courtyard &c” among them, carry the other form, “Bute the Marquess of”. The schedule does not explain the difference.",
+   "source": "National Library of Wales, tithe apportionment Llandough, Cogan and Leckwith (NLW 4542756), schedule canvas 23, rows 319–334, read against the NLW Places of Wales index (577 rows) 6 Nov 2026 · EV-0215",
+   "url": "https://places.library.wales/viewer/4542756",
+   "wayback": "",
+   "evidence": "EV-0215",
+   "origin": "spill",
+   "category": "title",
+   "sort": "1841-00-00",
+   "id": "CH-0615",
+   "date_display": "c. 1841",
+   "spill": "SP-00005"
   },
   {
    "date": "1842",
@@ -7446,6 +7460,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.19.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0615 (c. 1841): Tithe apportionment for Llandough, Cogan and Leckwith, schedule canvas 23: the landowner column reads “Manor lord of the (Marquess of Bute)” [spill SP-00005]",
+   "size": "591 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.18.0",
    "date": "2026-11-07",
