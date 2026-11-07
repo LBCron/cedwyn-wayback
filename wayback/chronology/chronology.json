@@ -1,12 +1,12 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.46.0",
- "updated_utc": "2026-11-07T20:03Z",
- "count": 631,
+ "version": "1.47.0",
+ "updated_utc": "2026-11-07T20:19Z",
+ "count": 635,
  "by_category": {
-  "heritage": 117,
+  "heritage": 120,
   "press": 165,
-  "history": 58,
+  "history": 59,
   "legal": 134,
   "social": 4,
   "title": 82,
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 59
+  "spill": 63
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -1083,6 +1083,20 @@
    "sort": "1905-00-00",
    "id": "CH-0059",
    "date_display": "1905"
+  },
+  {
+   "date": "1905",
+   "event": "The Llandaff diocesan digest of parish registers lists what the parish chests then held: Leckwith burials and marriages from 1753, Llandough marriages from 1755 and burials and births from 1784, Cogan from 1786; Llandough's burial register runs 1813-1899 (Deanery of Penarth, pp. 26-27; EV-0836). Nothing earlier survived in the parish custody in 1905. Present custody is not checked.",
+   "source": "A Digest of the Parish Registers within the Diocese of Llandaff previous to 1836 (1905), archive.org copy",
+   "url": "https://archive.org/details/llandaffrecords00diogoog/page/n45",
+   "wayback": "",
+   "evidence": "EV-0836",
+   "origin": "spill",
+   "category": "history",
+   "sort": "1905-00-00",
+   "id": "CH-0656",
+   "date_display": "1905",
+   "spill": "GH-cedwyn-research-27"
   },
   {
    "date": "23 Feb 1905",
@@ -3172,6 +3186,20 @@
    "sort": "1987-00-00",
    "id": "CH-0203",
    "date_display": "1987"
+  },
+  {
+   "date": "1987",
+   "event": "The British Geological Survey memoir for the Cardiff sheet (3rd edition) describes the disused Llandough quarry and Llandough Brickworks at ST 166 736: a complete Blue Anchor Formation section, Penarth Group beds, and Mercia Mudstone marls once worked for brick clay at Llandough, Cogan, Cadoxton and Ely (EV-0837). A geological description, not an ownership record.",
+   "source": "Waters and Lawrence, Geology of the country around Cardiff, BGS memoir sheet 263 (1987), BGS online text",
+   "url": "https://webapps.bgs.ac.uk/Memoirs/docs/B01839.html",
+   "wayback": "http://web.archive.org/web/20240730032703/https://webapps.bgs.ac.uk/Memoirs/docs/B01839.html",
+   "evidence": "EV-0837",
+   "origin": "spill",
+   "category": "heritage",
+   "sort": "1987-00-00",
+   "id": "CH-0657",
+   "date_display": "1987",
+   "spill": "GH-cedwyn-research-11"
   },
   {
    "date": "2 Feb 1987",
@@ -5726,6 +5754,20 @@
    "date_display": "2023"
   },
   {
+   "date": "2023",
+   "event": "A Cardiff University MSc Archaeological Science dissertation (completed 2022/23) studies diet at the Llandough monastic cemetery from dental microwear and calculus (title listed in the BABAO Annual Review 2023; EV-0839). The dissertation itself is not obtained.",
+   "source": "BABAO Annual Review 2023, pp. 41-42",
+   "url": "https://babao.org.uk/wp-content/uploads/2024/03/BABAO_Annual_Review_2023.pdf",
+   "wayback": "http://web.archive.org/web/20251024134325/https://babao.org.uk/wp-content/uploads/2024/03/BABAO_Annual_Review_2023.pdf",
+   "evidence": "EV-0839",
+   "origin": "spill",
+   "category": "heritage",
+   "sort": "2023-00-00",
+   "id": "CH-0658",
+   "date_display": "2022/23",
+   "spill": "GH-cedwyn-research-28b"
+  },
+  {
    "date": "2023-01-26",
    "event": "YouTube (Bob's Rail Relics): “Penarth Dock, the staion and the strange halt at Llandough” — Rail-heritage video on the disused Penarth Dock station and the short-lived halt at Llandough.",
    "source": "Media register MR-0189",
@@ -5876,6 +5918,20 @@
    "sort": "2025-11-20",
    "id": "CH-0398",
    "date_display": "20 Nov 2025"
+  },
+  {
+   "date": "25 Nov 2025",
+   "event": "A pollen study at Nant yr Argae near Dinas Powys (Medieval Settlement Research 40) finds a strong pastoral signal in the 6th and 7th centuries and broad continuity of farming from the 8th and 9th centuries; its references list a forthcoming study, 'Unlocking Llandough: chronology kinship and funerary commemoration' (EV-0838). The forthcoming work is not yet published.",
+   "source": "Davies, Seaman and Rippon, Medieval Settlement Research 40 (2025), Archaeopress article page",
+   "url": "https://archaeopresspublishing.com/ojs/index.php/msr/article/view/3270",
+   "wayback": "http://web.archive.org/web/20260713062851/https://archaeopresspublishing.com/ojs/index.php/msr/article/view/3270",
+   "evidence": "EV-0838",
+   "origin": "spill",
+   "category": "heritage",
+   "sort": "2025-11-25",
+   "id": "CH-0659",
+   "date_display": "25 Nov 2025",
+   "spill": "GH-cedwyn-research-28"
   },
   {
    "date": "2026",
@@ -8020,6 +8076,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.47.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0656 (1905); CH-0657 (1987); CH-0658 (2022/23); CH-0659 (25 Nov 2025) [idle-watch: cedwyn-research#27, #11, #28; catalogue EV-0836 to EV-0839]",
+   "size": "635 events",
+   "price": "free",
+   "who": "Tab agent (idle-watch run)"
+  },
   {
    "version": "1.46.0",
    "date": "2026-11-07",
