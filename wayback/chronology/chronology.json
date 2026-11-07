@@ -1,15 +1,15 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.34.0",
+ "version": "1.35.0",
  "updated_utc": "2026-11-07T15:49Z",
- "count": 606,
+ "count": 607,
  "by_category": {
   "heritage": 111,
   "press": 165,
   "history": 46,
   "legal": 132,
   "social": 4,
-  "title": 77,
+  "title": 78,
   "correspondence": 95
  },
  "by_origin": {
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 34
+  "spill": 35
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -1142,6 +1142,20 @@
    "id": "CH-0597",
    "date_display": "1923–24",
    "spill": "SP-00002"
+  },
+  {
+   "date": "1924-03",
+   "event": "Stephenson & Alexander correspondence on the sale of a “piece of land at Llandough opposite O.S. 60” by Lord Bute to Miss O.S. Corbett (Glamorgan Archives DSA/12/4232; file not seen), two months before the May 1924 drain agreement.",
+   "source": "Glamorgan Archives, DSA/12/4232 (Canfod catalogue)",
+   "url": "https://canfod.glamarchives.gov.uk/records/DSA/12/4232",
+   "wayback": "",
+   "evidence": "EV-0728",
+   "origin": "spill",
+   "category": "title",
+   "sort": "1924-03-06",
+   "id": "CH-0631",
+   "date_display": "6–22 Mar 1924",
+   "spill": "SP-00080"
   },
   {
    "date": "15 May 1924",
@@ -7670,6 +7684,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.35.0",
+   "date": "2026-11-07",
+   "change": "Added CH-0631 (6–22 Mar 1924): Stephenson & Alexander correspondence on the sale of a “piece of land at Llandough opposite O.S. 60” by Lord Bute to Miss O.S. Corbett (Glam [spill SP-00080]",
+   "size": "607 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.34.0",
    "date": "2026-11-07",
