@@ -1,13 +1,13 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.54.0",
- "updated_utc": "2026-11-07T21:57Z",
- "count": 657,
+ "version": "1.55.0",
+ "updated_utc": "2026-11-08T00:45Z",
+ "count": 658,
  "by_category": {
   "heritage": 123,
   "press": 165,
   "history": 64,
-  "legal": 134,
+  "legal": 135,
   "social": 5,
   "title": 94,
   "correspondence": 96
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 85
+  "spill": 86
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -330,6 +330,20 @@
    "id": "CH-0629",
    "date_display": "11 Sep 1813",
    "spill": "SP-00051"
+  },
+  {
+   "date": "1813-11-15",
+   "event": "In Chancery (Thomas against Hurst): certified copy report of the sale of William Hurst's freehold estates in Llandough-juxta-Penarth and four other parishes, auctioned at the Cardiff Arms Inn on 29 Sep 1813; lots 12-16 bought by Evan Thomas of Sully. The lots are not described and Tŷ Mawr (Great House) is not named.",
+   "source": "Glamorgan Archives DART/W/82 (Canfod catalogue entry read 8 Nov 2026; document not seen)",
+   "url": "https://canfod.glamarchives.gov.uk/records/DART/W/70-92/79-84/82",
+   "wayback": "",
+   "evidence": "EV-0866",
+   "origin": "spill",
+   "category": "legal",
+   "sort": "1813-11-15",
+   "id": "CH-0682",
+   "date_display": "15 Nov 1813",
+   "spill": "SP-00052"
   },
   {
    "date": "1821",
@@ -8384,6 +8398,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.55.0",
+   "date": "2026-11-08",
+   "change": "Added CH-0682 (15 Nov 1813): In Chancery (Thomas against Hurst): certified copy report of the sale of William Hurst's freehold estates in Llandough-juxta-Penarth and fou [spill SP-00052]",
+   "size": "658 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.54.0",
    "date": "2026-11-07",
