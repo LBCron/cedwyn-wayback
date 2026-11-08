@@ -1,11 +1,11 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.55.0",
+ "version": "1.56.0",
  "updated_utc": "2026-11-08T00:45Z",
- "count": 658,
+ "count": 659,
  "by_category": {
   "heritage": 123,
-  "press": 165,
+  "press": 166,
   "history": 64,
   "legal": 135,
   "social": 5,
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 86
+  "spill": 87
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -463,6 +463,20 @@
    "id": "CH-0674",
    "date_display": "c. 1850",
    "spill": "idle-watch cedwyn-nomenclature#10"
+  },
+  {
+   "date": "1852-08-08",
+   "event": "At St Mary's Church, Cardiff, William, second son of Mr John Williams of Great House Farm, Landough, marries Miss Martha Rees of Cardiff (family notice in The Cardiff and Merthyr Guardian, 21 Aug 1852). Read from the OCR text; the page image is not checked.",
+   "source": "The Cardiff and Merthyr Guardian, 21 Aug 1852, p.3, Family Notices (Welsh Newspapers, National Library of Wales)",
+   "url": "https://newspapers.library.wales/view/3090335/3090338/36/",
+   "wayback": "",
+   "evidence": "EV-0868",
+   "origin": "spill",
+   "category": "press",
+   "sort": "1852-08-08",
+   "id": "CH-0683",
+   "date_display": "8 Aug 1852",
+   "spill": "SP-00074"
   },
   {
    "date": "1855",
@@ -8398,6 +8412,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.56.0",
+   "date": "2026-11-08",
+   "change": "Added CH-0683 (8 Aug 1852): At St Mary's Church, Cardiff, William, second son of Mr John Williams of Great House Farm, Landough, marries Miss Martha Rees of Cardiff (fa [spill SP-00074]",
+   "size": "659 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.55.0",
    "date": "2026-11-08",
